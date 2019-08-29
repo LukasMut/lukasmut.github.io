@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: about my research
+title: 'about my research'
 description: A website about my research
 keywords: Natural Language Processing, Cognitivie Psychology, Research
 #baseurl:  '/homepage' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
