@@ -40,19 +40,24 @@
 					<!-- Text -->
 						<section>
 							
-							<h3>subjective Question Answering (QA)</h3>
+							<h3>Subjective Question Answering (QA)</h3>
 							
-							<p>Humans ask Google (and other search engines) a variety of questions. Frequently, those questions are subjective in nature. 
-							People want to know where to find things such as a romantic hotel or vibrant techno club.
-							Therefore, it's important that algorithms are capable of accurately answering not only factual but also subjective questions. 
+							<p>Humans ask Google (and other search engines) an array of questions. Frequently, those questions address subjective opinions. 
+							People want to know where to find a romantic hotel, the best Italian pizza place, or the hippest bar in town.
+							Therefore, it is crucial that algorithms are capable of accurately answering not solely factual but also subjective questions. 
 							Together with <a href="http://bjerva.github.io/"> Johannes Bjerva</a> and <a href="http://isabelleaugenstein.github.io/"> Isabelle Augenstein</a>
-						 	I try to solve this conundrum by looking into different neural architectures as part of my Master's thesis.
+						 	I tried to resolve this conundrum by looking into different neural architectures as part of my Master's thesis.
+							
+							I've further developed a method to predict whether an answer to such a subjective question will be correct or not, solely by looking 
+							into the word representations of the neural network prior to predicting the start and end positions of the answer. 
+							
+							<a href="https://github.com/LukasMut/ATNLP"> [Master's thesis] </a> <a href="https://github.com/LukasMut/ATNLP"> [EMNLP paper] </a> <a href="https://github.com/LukasMut/ATNLP"> [code] </a>
 							<hr />
 							
 							<h3>OffensEval with BERT & RoBERTa</h3>
 							
 							<p>Fine-tuned RoBERTa and BERT pre-trained language models (LMs) on the OffensEval 2019 OLID dataset
-							 to indentify offensive Twitter tweets. Furthermore, I investigated performance as a function of the number of frozen attention layers to inspect
+							to indentify offensive Twitter tweets. Furthermore, I investigated performance as a function of the number of frozen attention layers to inspect
 							until which layer the error must be backprogagated to both not lose any prior knowledge of the LM and still
 							inform the LM thorough enough about the high-level features of the Twitter tweets.</p>
 							
@@ -64,8 +69,8 @@
 							Implementation of various Encoder-Decoder RNNs, LSTMs and GRUs both with and without attention to investigate compositional skills of sequence-to-sequence models.
 							Contrary to Lake, B. and Baroni, M. (2018), we implemented mini-batch training to conduct experiments computationally more efficiently. 
 							Furthermore, we implemented a Teacher Forcing (TF) scheduler that gradually decreases the TF ratio over epochs to better prepare the model for inference time.
-							Code is available <a href="https://github.com/LukasMut/ATNLP"> here </a>. </p>
 							
+							<a href="https://drive.google.com/file/d/1sSGg749u8bFNmMHpGTGSHeioVp2mmdNQ/view"> [paper] </a> <a href="https://github.com/LukasMut/ATNLP"> [code] </a> </p>
 							<hr />
 							
 							<h3>Human brain activity for machine attention</h3>
