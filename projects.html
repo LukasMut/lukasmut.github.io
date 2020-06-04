@@ -43,12 +43,13 @@
 							<p>Humans ask Google (and other search engines) an array of questions. Frequently, those questions address subjective opinions. 
 							People want to know where to find a romantic hotel, the best Italian pizza place, or the hippest bar in town.
 							Therefore, it is crucial that algorithms are capable of accurately answering not solely factual but also subjective questions. 
-							Together with <a href="http://bjerva.github.io/"> Johannes Bjerva</a> and <a href="http://isabelleaugenstein.github.io/"> Isabelle Augenstein</a>
+							Together with <a href="http://bjerva.github.io/">Johannes Bjerva</a> and <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a>
 						 	I tried to resolve this conundrum by looking into different neural architectures as part of my Master's thesis. </p>
 							
 							<p> I've further developed a method to predict whether an answer to such a subjective question will be correct or not, solely by looking 
-							into the word representations of the neural network prior to predicting the start and end positions of the answer. <br>
-							<a href="https://github.com/LukasMut/Subjective_QA">[Master's thesis]</a> &nbsp; <a href="https://github.com/LukasMut/Subjective_QA">[EMNLP paper]</a> &nbsp; <a href="https://github.com/LukasMut/Subjective_QA"> [code] </a> </p>
+							into the word representations of the neural network (at each of its layers) prior to predicting the start and end positions of the answer span.
+							This "follow-up" work (~"alongside" work) was submitted to <a href="https://2020.emnlp.org/">EMNLP 2020</a>.<br>
+							<a href="https://github.com/LukasMut/Subjective_QA">[Master's thesis]</a> &nbsp; <a href="https://github.com/LukasMut/Subjective_QA">[EMNLP paper]</a> &nbsp; <a href="https://github.com/LukasMut/Subjective_QA">[code]</a> </p>
 							<hr />
 							
 							<hr />
@@ -64,14 +65,14 @@
 							Implementation of various Encoder-Decoder RNNs, LSTMs and GRUs both with and without attention to investigate compositional skills of sequence-to-sequence models.
 							Contrary to Lake, B. and Baroni, M. (2018), we implemented mini-batch training to conduct experiments computationally more efficiently. 
 							Furthermore, we implemented a Teacher Forcing (TF) scheduler that gradually decreases the TF ratio over epochs to better prepare the model for inference time. <br>
-							<a href="https://drive.google.com/file/d/1sSGg749u8bFNmMHpGTGSHeioVp2mmdNQ/view">[paper]</a> &nbsp; <a href="https://github.com/LukasMut/ATNLP">[code]</a> </p>
+							<a href="https://github.com/LukasMut/ATNLP">[code]</a> &nbsp; <a href="documents/paper/Compositional_Skills_of_Recurrent_Neural_Networks.pdf">[paper]</a> </p>
 							<hr />
 
 							<h3>Human brain activity for machine attention</h3>
 
 							<p>Investigating with <a href="https://norahollenstein.github.io/"> Nora Hollenstein</a> and <a href="https://di.ku.dk/english/staff/?pure=en/persons/455610"> Maria Barrett </a> 
 							how different reading tasks, and hence their respective cognitive loads, affect human brain activity, and how we can leverage this activity to embed words in EEG space.
-							Moreover, we scrutinized whether informing machine attention with EEG activity from human readers helps to process and thus understand natural language.
+							Moreover, we scrutinized whether informing machine attention with EEG activity from human readers helps neural models to process natural language.
 							In this endeavour, we exploited the recently developed <a href="https://osf.io/q3zws/"> ZuCo corpus</a> for which I am a contributor.<br>
 							<a href="https://github.com/LukasMut/NER-with-EEG-and-ET">[code]</a> &nbsp; </p>
 
@@ -80,7 +81,7 @@
 							<h3>Text-to-SQL with BERT</h3>
 
 							<p>Investigated how questions in the form of natural language (NL) can be mapped to a machine readable (i.e., logical) form, namely SQL, to query a database. This task is also called semantic parsing.<br>
-							<a href="https://github.com/LukasMut/TypeSQL-plus-BERT">[code]</a> &nbsp; <a href="https://drive.google.com/file/d/19sZlCarH0xq073Dtxeg1gnbuzuMGrjtJ/preview">[paper]</a></p>
+							<a href="https://github.com/LukasMut/TypeSQL-plus-BERT">[code]</a> &nbsp; <a href="documents/paper/Text2SQL_LukasMuttenthaler.pdf">[paper]</a></p>
 
 							<hr />
 
