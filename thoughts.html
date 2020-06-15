@@ -34,9 +34,79 @@
 				<div class="container">
 
 					<header class="major special">
-						<h2>Thoughts on recent scientific developments</h2>
+						<h2>Thoughts</h2>
 					</header>
 					
+					<!-- Text -->
+						<section>
+					
+							<h3>Subjective Question Answering</h3>
+							
+							<p>Have you ever wondered how machines answer your questions? 
+							In my master’s thesis I’ve delved deeper into the realm of (subjective) QA. 
+							The following lines should provide a glimpse into the research I’ve conducted 
+							and give a high-level overview.</p>
+							
+							<p>Frequently we humans would like to know, <i>whether</i> a particular restaurant is recommendable, 
+							<i>how</i> the actors in a movie played their parts, or <i>which</i> of the affordable hotels
+							we should book given that we prefer it to be romantic.
+							It instantaneously becomes clear that such questions cannot be answered with objective, measurable facts. 
+							They require some piece of subjective opinion. <i>How</i> do we get that piece? 
+							Firstly, we need a review paragraph of a customer who has provided insight into what we want to know. 
+							This paragraph is a long sequence of words of which some hold the opinion we are looking for. 
+							Thus, we secondly need the start and end positions of the answer span that is deemed correct. 
+							The latter is annotated as such by human crowd-workers; otherwise we cannot train a machine learning algorithm to automatically detect answer spans in previously unseen reviews. 
+							The following figure depicts a high-level overview of the task. </p>
+								
+								<img src="documents/subjective_qa/qa_task.PNG" alt="QA" width="500" height="600">
+							
+							<p> Great. Now we know how QA works, and what pieces of text are needed. Let’s assume we have searched the internet for reviews 
+							that correspond to all questions we want to be answered for our next holiday trip. 
+							Let’s further assume that some scientists have payed human crowd-workers to investigate the reviews and 
+							annotate most reviews with answer spans they consider to be correct. Hold on. Most reviews? 
+							We seek answers to each of our questions, not just to most of them.</p>
+							
+							<p>Unfortunately, science suffers from a lack of money since its birth, and hence cannot pay to find the appropriate answer spans in all reviews. 
+							(Humans have indeed many (!) questions for a single holiday trip.) 
+							We are too lazy to search for the answers ourselves. What a waste of time would that be?! 
+							Instead, we simply build a machine learning algorithm to do this for us. Neural nets are in vogue and perform better than the rest. Let’s build a neural net. 
+							Thanks to the scientists (god knows why they have payed human crowd-workers to annotate our reviews), we have got lots of data with which we can train our neural net. Recall that we have asked many questions!</p>
+							
+							<p>This holiday is our first in a long time (Covid-19 has gotten to all of us). Thus, we want the answers to be as accurate as possible. 
+							Since we have majored in Computer Science, and did our minor in Neuroscience, we have an idea. 
+							We remember from our neuroscience class back in the days that the human brain is adept in the transfer of knowledge across tasks, and never learns things in isolation. 
+							The human brain comprehends tasks in context through the acquisition of diverse information with respect to our environment. 
+							Therefore, it would not make sense to just train the net on answering questions. Note, however, that artificial neural nets do not even come close to the human brain in learning about things, 
+							but we still try our bests to make them a little smarter. The reviews we have gathered belong to six different domains, namely <b>books</b>, <b>electronics</b>, <b>grocery</b>, <b>movies</b>, <b>restaurants</b>, <b>TripAdvisor</b>.
+							(I know. We want to know questions about too many areas.) There might be useful information in the different domains that could help the neural net to easier find an answer.
+							Hence, we also optimize our algorithm on the task of classifying the reviews into its corresponding domains. This is called multi-way classification. Such an architecture looks as follows.</p> 
+							       
+								<img src="documents/subjective_qa/mtl_model.PNG" alt="QA" width="500" height="600">
+								
+							<p>Let the training begin. We train for a couple of epochs, then we test our neural net on unseen reviews. 
+							We seem to get useful answers. Approximately 80% of them appear to be correct. What about the remaining 20% though? 
+							They are completely off, we reckon. How did that happen? Recall that QA is not an easy task. We ask a diverse set of questions and want the neural net to find the correct answer in an enormously long sequence of words. 
+							Also, we don't give it much time to do this. Since we are curious beings, we investigate what happened along the way. Why are most answers correct, and some wrong? We realize a couple of things. 
+							Questions that start with <b>how</b> or belong to the domain <b>TripAdvisor</b> appear to be the most difficult across the board. (Don’t trust the TripAdvisor reviews!).</p>
+							
+							<p>However, this does not tell us anything about the inner workings of our net. We know how to program, and thus we simply investigate the hidden representations of the model at each of its layers. 
+							You can think of layers as stages of processing (similarly to the human brain, but definitely not the same). Early layers reflect low-level representations such as syntactic features, final layers encode high-level information such as the contextual meaning of a word.
+							We find an interesting pattern. Whenever our neural net got a question right, the hidden representations corresponding to the correct answer tokens are both separated from the context and clustered closely, but only in final layers where more abstract information is encoded. 
+							For simplicity, this is shown in 2D space (see Figure below).</p> 
+							
+							<img src="documents/subjective_qa/correct_ans_pred.PNG" alt="QA" width="500" height="600">
+							
+							<p>Conversely, whenever the neural net incorrectly responded to a question, the answer token representations were clustered together with the context, 
+							showing no separation whatsoever. We suppose that this knowledge might conveniently be leveraged to predict (with another, smaller and simpler neural net) whether our QA model will respond correctly or not. 
+							If that is indeed possible, we can skip those questions for which the QA model cannot find the correct answer span, and either look for an answer ourselves or pay – in a similar fashion to the scientists above – someone else to do this, 
+							or maybe we just stop caring about those questions. We could even create more training data. 
+							Whenever our small neural net predicts a correct answer by the QA neural net, we could consider this answer to be correct and expand our training corpus. Since we know that it’s all about the data (not only the amount but also the quality), 
+							we suspect that the accuracy of our QA model will be enhanced with more training examples; 
+							hence, alleviating the need for human labellers and saving us lots of time. 
+							However, for this holiday trip we are satisfied with the current results. The combinatory approach including the small neural net that is meant to predict the behaviour of the QA model, will be deployed for our next journey which will be a longer and more adventurous. 
+							Gosh, so many questions are ahead of us. We really need two neural nets working together. Let's first conduct experiments and write a paper about this...</p>
+
+							<hr />
 					<!-- Text -->
 						<section>
 							<h3>Contagious times: a letter of hope</h3>
