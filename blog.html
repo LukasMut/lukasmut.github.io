@@ -106,7 +106,7 @@
 							
 							<br><p>Conversely, whenever the neural net incorrectly responded to a question, the answer token representations were clustered together with the context, 
 							showing no separation whatsoever. We suppose that this knowledge might conveniently be leveraged to predict (with another, smaller and simpler neural net) whether our QA model will respond correctly or not. 
-							If that is indeed possible, we can skip those questions for which the QA model cannot find the correct answer span, and either look for an answer ourselves or pay – in a similar fashion to the scientists above – someone else to do this, 
+							If that is indeed possible, we can skip the questions for which the QA model cannot find the correct answer span, and either look for an answer ourselves or pay – in a similar fashion to the scientists above – someone else to do this, 
 							or maybe we just stop caring about those questions. We could even create more training data. 
 							Whenever our small neural net predicts a correct answer by the QA neural net, we could consider this answer to be correct and expand our training corpus. Since we know that it’s all about the data (not only the amount but also the quality), 
 							we suspect that the accuracy of our QA model will be enhanced with more training examples; 
