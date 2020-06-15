@@ -85,7 +85,7 @@
 							(I know. We want to know questions about too many areas.) There might be useful information in the different domains that could help the neural net to easier find an answer.
 							Hence, we also optimize our algorithm on the task of classifying the reviews into its corresponding domains. This is called multi-way classification. Such an architecture looks as follows.</p> 
 							       
-								<img src="documents/subjective_qa/mtl_model.PNG" alt="QA" width="500" height="400", class="center">
+								<img src="documents/subjective_qa/mtl_model.PNG" alt="QA" width="500" height="300", class="center">
 								
 							<p>Let the training begin. We train for a couple of epochs, then we test our neural net on unseen reviews. 
 							We seem to get useful answers. Approximately 80% of them appear to be correct. What about the remaining 20% though? 
@@ -100,7 +100,11 @@
 							We find an interesting pattern. Whenever our neural net got a question right, the hidden representations corresponding to the correct answer tokens are both separated from the context and clustered closely, but only in final layers where more abstract information is encoded. 
 							For simplicity, this is shown in 2D space (see Figure below).</p> 
 							
-							<img src="documents/subjective_qa/correct_ans_pred.PNG" alt="QA" width="500" height="400", class="center">
+							<body>
+							<div class="img-container"> <!-- Block parent element -->   		
+							<img src="documents/subjective_qa/correct_ans_pred.PNG" alt="QA" width="500" height="300", class="center">
+							</div>
+							</body>
 							
 							<p>Conversely, whenever the neural net incorrectly responded to a question, the answer token representations were clustered together with the context, 
 							showing no separation whatsoever. We suppose that this knowledge might conveniently be leveraged to predict (with another, smaller and simpler neural net) whether our QA model will respond correctly or not. 
