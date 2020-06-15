@@ -109,8 +109,9 @@
 							
 							<br><p>Conversely, whenever the neural net incorrectly responded to a question, the answer token representations were clustered together with the context, 
 							showing no separation whatsoever. We suppose that this knowledge might conveniently be leveraged to predict (with another, smaller and simpler neural net) whether our QA model will respond correctly or not. 
-							If that is indeed possible, we can skip the questions for which the QA model cannot find the correct answer span, and either look for an answer ourselves or pay – in a similar fashion to the scientists above – someone else to do this, 
-							or maybe we just stop caring about those questions.</p>
+							One could say that one net is looking into the "brain" of the other, and seeks for an error while it is processing. Again, this is just nomenclature to make it easier to understand what is going on. Those are of course not actual brains.
+							If this is indeed possible, we could skip the questions for which the QA model cannot find the correct answer span, and either look for an answer ourselves or pay – in a similar fashion to the scientists above – someone else to do this, 
+							or maybe we just stop caring about those questions and are satisfied with the set of correct ones.</p>
 							
 							<p>We could even create more training data. Whenever our small neural net predicts a correct answer by the QA neural net,
 							we could consider this answer to be correct and expand our training corpus. Since we know that it’s all about the data (not only the amount but more so about the quality), 
