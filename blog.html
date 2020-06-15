@@ -83,12 +83,12 @@
 							Since we have majored in Computer Science, and did our minor in Neuroscience, we have got an idea. 
 							We remember from our neuroscience class back in the days that the human brain is adept in the transfer of knowledge across tasks, and never learns things in isolation. 
 							The human brain comprehends tasks in context through the acquisition of diverse information with respect to its environment. 
-							Therefore, it would not make sense to solely train the net on answering questions; otherwise it might not generalise well. Note, however, that artificial neural nets do not even come close to the human brain in learning about the world, 
+							Therefore, it would not make sense to solely train the net on answering questions; otherwise it might not generalise well to a different set of questions. Note, however, that artificial neural nets do not even come close to the human brain in learning about the world, 
 							but we still try our bests to make them a little smarter. The reviews we have gathered belong to six different domains, namely <b>books</b>, <b>electronics</b>, <b>grocery</b>, <b>movies</b>, <b>restaurants</b>, <b>TripAdvisor</b>.
 							(I know, we seek answers to questions about many different areas.) There might be useful information in the various domains that could help the neural net to easier find an answer.
 							Hence, we also optimize our algorithm on the task of classifying the reviews into their corresponding domains. This is called multi-way classification. We let our neural net perform multiple tasks at the same time.
 							We want it to classify the reviews into their respective domains, make it learn the difference between a subjective opinion and an objective, measurable fact, and, most crucially, answer our questions.
-							This should ultimately increase performance on the main task, QA. Such a "multi-task" neural architecture looks as follows. Note that we have called our neural net <b>BERT</b> since we were a big fan of the sesame street back in our childhood, and like to give machines names.</p><br>
+							This should ultimately increase performance on the main task, QA. Such a "multi-task" neural architecture looks as follows. We have called our neural net <b>BERT</b> since we were a big fan of the sesame street back in our childhood, and like to give machines names.</p><br>
 							       
 							<p style="text-align:center;"><img src="documents/subjective_qa/mtl_model.PNG" alt="QA" width="500" height="350"></p>
 								
