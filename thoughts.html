@@ -58,11 +58,11 @@
 							This paragraph is a long sequence of words of which some hold the opinion we are looking for. 
 							Thus, we secondly need the start and end positions of the answer span that is deemed correct. 
 							The latter is annotated as such by human crowd-workers; otherwise we cannot train a machine learning algorithm to automatically detect answer spans in previously unseen reviews. 
-							The following figure depicts a high-level overview of the task. </p>
+							The following figure depicts a high-level overview of the task. </p><br>
 								
-								<img src="documents/subjective_qa/qa_task.PNG" alt="QA" width="500" height="400", class="center">
+								<img src="documents/subjective_qa/qa_task.PNG" alt="QA" width="500" height="350" class="center">
 							
-							<p> Great. Now we know how QA works, and what pieces of text are needed. Let’s assume we have searched the internet for reviews 
+							<br><p> Great. Now we know how QA works, and what pieces of text are needed. Let’s assume we have searched the internet for reviews 
 							that correspond to all questions we want to be answered for our next holiday trip. 
 							Let’s further assume that some scientists have payed human crowd-workers to investigate the reviews and 
 							annotate most reviews with answer spans they consider to be correct. Hold on. Most reviews? 
@@ -83,11 +83,11 @@
 							Therefore, it would not make sense to just train the net on answering questions. Note, however, that artificial neural nets do not even come close to the human brain in learning about things, 
 							but we still try our bests to make them a little smarter. The reviews we have gathered belong to six different domains, namely <b>books</b>, <b>electronics</b>, <b>grocery</b>, <b>movies</b>, <b>restaurants</b>, <b>TripAdvisor</b>.
 							(I know. We want to know questions about too many areas.) There might be useful information in the different domains that could help the neural net to easier find an answer.
-							Hence, we also optimize our algorithm on the task of classifying the reviews into its corresponding domains. This is called multi-way classification. Such an architecture looks as follows.</p> 
+							Hence, we also optimize our algorithm on the task of classifying the reviews into its corresponding domains. This is called multi-way classification. Such an architecture looks as follows.</p><br>
 							       
-								<img src="documents/subjective_qa/mtl_model.PNG" alt="QA" width="500" height="300", class="center">
+								<img src="documents/subjective_qa/mtl_model.PNG" alt="QA" width="500" height="300" class="center">
 								
-							<p>Let the training begin. We train for a couple of epochs, then we test our neural net on unseen reviews. 
+							<br><p>Let the training begin. We train for a couple of epochs, then we test our neural net on unseen reviews. 
 							We seem to get useful answers. Approximately 80% of them appear to be correct. What about the remaining 20% though? 
 							They are completely off, we reckon. How did that happen? Recall that QA is not an easy task. We ask a diverse set of questions and want the neural net to find the correct answer in an enormously long sequence of words. 
 							Also, we don't give it much time to do this. Since we are curious beings, we investigate what happened along the way. Why are most answers correct, and some wrong? We realize a couple of things. 
@@ -98,15 +98,11 @@
 							<p>However, this does not tell us anything about the inner workings of our net. We know how to program, and thus we simply investigate the hidden representations of the model at each of its layers. 
 							You can think of layers as stages of processing (similarly to the human brain, but definitely not the same). Early layers reflect low-level representations such as syntactic features, final layers encode high-level information such as the contextual meaning of a word.
 							We find an interesting pattern. Whenever our neural net got a question right, the hidden representations corresponding to the correct answer tokens are both separated from the context and clustered closely, but only in final layers where more abstract information is encoded. 
-							For simplicity, this is shown in 2D space (see Figure below).</p> 
+							For simplicity, this is shown in 2D space (see Figure below).</p><br> 
 							
-							<body>
-								<div class="img-container"> <!-- Block parent element -->   		
-									<img src="documents/subjective_qa/correct_ans_pred.PNG" alt="QA" width="500" height="300", class="center">
-								</div>
-							</body>
+								<img src="documents/subjective_qa/correct_ans_pred.PNG" alt="QA" width="500" height="300" class="center">
 							
-							<p>Conversely, whenever the neural net incorrectly responded to a question, the answer token representations were clustered together with the context, 
+							<br><p>Conversely, whenever the neural net incorrectly responded to a question, the answer token representations were clustered together with the context, 
 							showing no separation whatsoever. We suppose that this knowledge might conveniently be leveraged to predict (with another, smaller and simpler neural net) whether our QA model will respond correctly or not. 
 							If that is indeed possible, we can skip those questions for which the QA model cannot find the correct answer span, and either look for an answer ourselves or pay – in a similar fashion to the scientists above – someone else to do this, 
 							or maybe we just stop caring about those questions. We could even create more training data. 
