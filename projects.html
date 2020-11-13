@@ -41,7 +41,8 @@
 							<p>I've developed a pipeline to easily extract hidden unit activations at any layer for any image from an array of <a href="https://pytorch.org/docs/stable/torchvision/models.html">torchvision models</a>.
 							The user is only required to specify the PATH where the images can be found on disk, the desired vision model, the layer, whether activations should be flattened (tensor2vectors) or extracted as is (e.g., as multidimensional arrays), 
 							and in which file format (e.g., .npy) the hidden unit activations should be stored. The GitHub repository contains a Python dataset class that converts the user's images into a read-to-use <a href="https://pytorch.org/">PyTorch</a> dataset,
-							which is subsequently wrapped with a mini-batch dataloader to make neural activation extraction fast and efficient. Activations are automatically stored at the specified location, where they can be found after extraction. <br>
+							which is subsequently wrapped with a mini-batch dataloader to make neural activation extraction fast and efficient. Activations are automatically stored at the specified location, where they can be found after extraction. 
+							Have a look at the GitHub repo for more details about implementation and use.<br>
 							<a href="https://github.com/ViCCo-Group/thingsvision">[code]</a> </p>
 							<hr />
 
