@@ -40,85 +40,95 @@
                     <section>
                         <h3>My .zshrc</h3>
 					
-					<xmp theme="united" style="display:none;">
-                    ```bash
-                        ## set zsh prompt style ##
-                        # add pure theme from https://github.com/sindresorhus/pure
-                        fpath+=$HOME/.zsh/pure
-                        # init prompt command and set prompt theme
-                        autoload -U promptinit && promptinit
-                        prompt pure
-                        
-                        # color! (copied from juseless, affects ls, diff, grep, ...))
-                        if (( $+commands[dircolors] )) ; then  # GNU (likely)
-                            # set LS_COLORS
-                            eval `dircolors -b`
-                        
-                            alias diff='diff --color=auto'
-                            alias grep='grep --color=auto'
-                            alias ls='ls --color=auto'
-                        
-                            # colorize tab completion menu
-                            zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
-                        else  # macOS/BSD (likely)
-                            export CLICOLOR=1
-                            export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
-                        
-                            # colorize tab completion menu
-                            zstyle ':completion:*' list-colors ${(s.:.)LSCOLORS}
-                        fi
-                        
-                        source ~/.bashrc
-                        
-                        # >>> conda initialize >>>
-                        # !! Contents within this block are managed by 'conda init' !!
-                        __conda_setup="$('/Users/$(whoami)/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
-                        if [ $? -eq 0 ]; then
-                            eval "$__conda_setup"
-                        else
-                            if [ -f "/Users/$(whoami)/anaconda3/etc/profile.d/conda.sh" ]; then
-                                . "/Users/$(whoami)/anaconda3/etc/profile.d/conda.sh"
-                            else
-                                export PATH="/Users/$(whoami)/anaconda3/bin:$PATH"
+
+                    <!-- Import element definition -->
+                    <script
+                    type="module"
+                    src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+                    ></script>
+                    
+                    <!-- Profit! -->
+                    <zero-md>
+                         <!-- Write your markdown inside a `<script type="text/markdown">` tag -->
+                        <script type="text/markdown">
+                            ```bash
+                            ## set zsh prompt style ##
+                            # add pure theme from https://github.com/sindresorhus/pure
+                            fpath+=$HOME/.zsh/pure
+                            # init prompt command and set prompt theme
+                            autoload -U promptinit && promptinit
+                            prompt pure
+                            
+                            # color! (copied from juseless, affects ls, diff, grep, ...))
+                            if (( $+commands[dircolors] )) ; then  # GNU (likely)
+                                # set LS_COLORS
+                                eval `dircolors -b`
+                            
+                                alias diff='diff --color=auto'
+                                alias grep='grep --color=auto'
+                                alias ls='ls --color=auto'
+                            
+                                # colorize tab completion menu
+                                zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
+                            else  # macOS/BSD (likely)
+                                export CLICOLOR=1
+                                export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
+                            
+                                # colorize tab completion menu
+                                zstyle ':completion:*' list-colors ${(s.:.)LSCOLORS}
                             fi
-                        fi
-                        unset __conda_setup
-                        # <<< conda initialize <<<
-                        
-                        setopt HIST_IGNORE_SPACE
-                        
-                        ## aliases
-                        
-                        # general shortcuts
-                        alias l="ls -la"    
-                        alias mkdir="mkdir -p"
-                        alias zip="zip -r -X"
-                        alias untar="tar -xvf"
-                        alias untargz="tar -zxvf"
-                        
-                        # git shortcuts
-                        alias ga="git add"
-                        alias gb="git branch"
-                        alias gs="git status"
-                        alias gc="git commit"
-                        alias gp="git push"
-                        alias graph="git log --all --graph --decorate"
-                        alias discard="git checkout --"
-                        
-                        # ssh shortcuts
-                        alias sshr="ssh raven"
-                        alias sshc="ssh cobra"
-                        alias sshn="ssh nerz"
-                        
-                        # path shortcuts
-                        alias dl="cd ~/Downloads"
-                        alias dc="cd"
-                        
-                        # screen shortcuts
-                        alias sc="screen"
-                    ```
-                    </xmp>
-                    <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+                            
+                            source ~/.bashrc
+                            
+                            # >>> conda initialize >>>
+                            # !! Contents within this block are managed by 'conda init' !!
+                            __conda_setup="$('/Users/$(whoami)/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+                            if [ $? -eq 0 ]; then
+                                eval "$__conda_setup"
+                            else
+                                if [ -f "/Users/$(whoami)/anaconda3/etc/profile.d/conda.sh" ]; then
+                                    . "/Users/$(whoami)/anaconda3/etc/profile.d/conda.sh"
+                                else
+                                    export PATH="/Users/$(whoami)/anaconda3/bin:$PATH"
+                                fi
+                            fi
+                            unset __conda_setup
+                            # <<< conda initialize <<<
+                            
+                            setopt HIST_IGNORE_SPACE
+                            
+                            ## aliases
+                            
+                            # general shortcuts
+                            alias l="ls -la"    
+                            alias mkdir="mkdir -p"
+                            alias zip="zip -r -X"
+                            alias untar="tar -xvf"
+                            alias untargz="tar -zxvf"
+                            
+                            # git shortcuts
+                            alias ga="git add"
+                            alias gb="git branch"
+                            alias gs="git status"
+                            alias gc="git commit"
+                            alias gp="git push"
+                            alias graph="git log --all --graph --decorate"
+                            alias discard="git checkout --"
+                            
+                            # ssh shortcuts
+                            alias sshr="ssh raven"
+                            alias sshc="ssh cobra"
+                            alias sshn="ssh nerz"
+                            
+                            # path shortcuts
+                            alias dl="cd ~/Downloads"
+                            alias dc="cd"
+                            
+                            # screen shortcuts
+                            alias sc="screen"
+                        ```
+                        </script>
+                    </zero-md> src="/example.md"></zero-md>
 					<!-- Text -->
 						<section>
 							<h3></h3>
