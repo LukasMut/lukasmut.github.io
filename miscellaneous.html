@@ -38,9 +38,8 @@
 					</header> -->
 
                     <section>
-                        <h3>My .zshrc</h3>
+                        <h4>My .zshrc</h4>
 					
-
                     <!-- Import element definition -->
                     <script
                         type="module"
@@ -55,8 +54,8 @@
                         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.0/themes/prism-dark.min.css"/>
                         </template>
                         <!-- Write your markdown inside a `<script type="text/markdown">` tag -->
-                        <script type="text/markdown">
-                            ```sh
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.0/prism-dark.min.js"></script>
+                        <pre><code class="language-sh"></code>
                             ## set zsh prompt style ##
                             # add pure theme from https://github.com/sindresorhus/pure
                             fpath+=$HOME/.zsh/pure
@@ -131,8 +130,7 @@
                             
                             # screen shortcuts
                             alias sc="screen"
-                        ```
-                        </script>
+                    </pre>
                     </zero-md>
 					<!-- Text -->
 						<section>
