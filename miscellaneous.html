@@ -49,7 +49,12 @@
                     
                     <!-- Profit! -->
                     <zero-md>
-                         <!-- Write your markdown inside a `<script type="text/markdown">` tag -->
+                        <!-- Wrap with a <template> tag -->
+                        <template>
+                        <link rel="stylesheet" href="node_modules/markdown-retro/css/retro.css">
+                        <!-- Load external stylesheets with a `<link rel="stylesheet">` tag -->
+                        </template>
+                        <!-- Write your markdown inside a `<script type="text/markdown">` tag -->
                         <script type="text/markdown">
                             ```bash
                             ## set zsh prompt style ##
