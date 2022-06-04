@@ -1,0 +1,147 @@
+
+<!DOCTYPE HTML>
+<!--
+	Spatial by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Lukas Muttenthaler | Brains & Machines</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<h1><strong><a href="index.html">Blog</a></strong></h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">About Me</a></li>
+						<li><a href="projects.html">Projects</a></li>
+						<li><a href="publications.html">Publications</a></li>
+            			<li><a href="miscellaneous.html">Miscellaneous</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="container">
+
+					<!-- <header class="major special">
+						<h2>Thoughts</h2>
+					</header> -->
+
+                    <section>
+                        <h3>My .zshrc</h3>
+					
+					<xmp theme="united" style="display:none;">
+                    ```bash
+                        ## set zsh prompt style ##
+                        # add pure theme from https://github.com/sindresorhus/pure
+                        fpath+=$HOME/.zsh/pure
+                        # init prompt command and set prompt theme
+                        autoload -U promptinit && promptinit
+                        prompt pure
+                        
+                        # color! (copied from juseless, affects ls, diff, grep, ...))
+                        if (( $+commands[dircolors] )) ; then  # GNU (likely)
+                            # set LS_COLORS
+                            eval `dircolors -b`
+                        
+                            alias diff='diff --color=auto'
+                            alias grep='grep --color=auto'
+                            alias ls='ls --color=auto'
+                        
+                            # colorize tab completion menu
+                            zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
+                        else  # macOS/BSD (likely)
+                            export CLICOLOR=1
+                            export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
+                        
+                            # colorize tab completion menu
+                            zstyle ':completion:*' list-colors ${(s.:.)LSCOLORS}
+                        fi
+                        
+                        source ~/.bashrc
+                        
+                        # >>> conda initialize >>>
+                        # !! Contents within this block are managed by 'conda init' !!
+                        __conda_setup="$('/Users/$(whoami)/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+                        if [ $? -eq 0 ]; then
+                            eval "$__conda_setup"
+                        else
+                            if [ -f "/Users/$(whoami)/anaconda3/etc/profile.d/conda.sh" ]; then
+                                . "/Users/$(whoami)/anaconda3/etc/profile.d/conda.sh"
+                            else
+                                export PATH="/Users/$(whoami)/anaconda3/bin:$PATH"
+                            fi
+                        fi
+                        unset __conda_setup
+                        # <<< conda initialize <<<
+                        
+                        setopt HIST_IGNORE_SPACE
+                        
+                        ## aliases
+                        
+                        # general shortcuts
+                        alias l="ls -la"    
+                        alias mkdir="mkdir -p"
+                        alias zip="zip -r -X"
+                        alias untar="tar -xvf"
+                        alias untargz="tar -zxvf"
+                        
+                        # git shortcuts
+                        alias ga="git add"
+                        alias gb="git branch"
+                        alias gs="git status"
+                        alias gc="git commit"
+                        alias gp="git push"
+                        alias graph="git log --all --graph --decorate"
+                        alias discard="git checkout --"
+                        
+                        # ssh shortcuts
+                        alias sshr="ssh raven"
+                        alias sshc="ssh cobra"
+                        alias sshn="ssh nerz"
+                        
+                        # path shortcuts
+                        alias dl="cd ~/Downloads"
+                        alias dc="cd"
+                        
+                        # screen shortcuts
+                        alias sc="screen"
+                    ```
+                    </xmp>
+					<!-- Text -->
+						<section>
+							<h3></h3>
+							
+							<p></p>
+
+					
+				</div>
+			</section>
+					
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="container">
+				<ul class="icons">
+					<li><a href="https://github.com/LukasMut" class="icon fa-github"></a></li>
+					<li><a href="https://twitter.com/lukas_mut" class="icon fa-twitter"></a></li>
+					<li><a href="https://www.linkedin.com/in/lukas-muttenthaler/" class="icon fa-linkedin"></a></li>
+				</ul>
+				<ul class="copyright">
+						<li>&copy; Lukas Muttenthaler</li>
+						<li>Design: <a href="http://templated.co">TEMPLATED</a></li>
+						<li>Images: <a href="http://unsplash.com">Unsplash</a></li>
+				</ul>
+			</div>
+		</footer>
+	</body>
+</html>
