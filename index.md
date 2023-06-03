@@ -29,10 +29,10 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 
 
 ## Links
-* <a href="https://twitter.com/lukas_mut">Twitter</a>
+* <a href="https://twitter.com/lukas_mut" class="icon fa-twitter">Twitter</a>
 * <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a>
-* <a href="https://github.com/LukasMut">GitHub</a>
-* <a href="https://www.linkedin.com/in/lukas-muttenthaler/">LinkedIn</a>
+* <a href="https://github.com/LukasMut" class="icon fa-github">GitHub</a>
+* <a href="https://www.linkedin.com/in/lukas-muttenthaler/" class="icon fa-linkedin">LinkedIn</a>
 
 ## News
 
