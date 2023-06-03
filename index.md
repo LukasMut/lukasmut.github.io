@@ -56,7 +56,7 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 * As of July 1st, I am a PhD student in the Machine Learning Group at TU Berlin, working on cognitively inspired Machine Learning! Excited to continue my journey on the intersection of ML and Cognitive Science; this time with a stronger emphasis on ML rather than on Cognitive Science.
 										
 ### 2020
-* Paper on <i>Unsupervised QA Evaluation of Transformers</i> with my previous MSc. supervisors <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/"> accepted to BlackBoxNLP @ <a href="https://2020.emnlp.org/">EMNLP 2020</a>!
+* Paper on  <a href="https://www.aclweb.org/anthology/2020.blackboxnlp-1.8/"><i>Unsupervised QA Evaluation of Transformers</i></a> with my previous MSc. supervisors <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> accepted to BlackBoxNLP @ <a href="https://2020.emnlp.org/">EMNLP 2020</a>!
 * In August I started as a full-time Research Assistant (RA) in the <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition"><i>Vision and Computational Cognition Group </i> </a> at the <a href="https://www.cbs.mpg.de/">Max Planck Institute for Human Cognitive and Brain Sciences</a> in Leipzig, Germany. Excited to start working at the intersection of Machine Learning and Cognitive Neuroscience!
 * In June I successfully defended my MSc thesis on <a href="https://arxiv.org/abs/2006.08342"><i>Subjective Question Answering</i></a> and graduated with distinction from the University of Copenhagen.
 
