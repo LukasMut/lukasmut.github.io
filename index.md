@@ -37,7 +37,7 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 ## News
 
 ### 2023
-* Extended abstract on object dimensions that I started pursuin during my time as an RA at the Max Planck Institute for Human Cognitive and Brain Sciences was accepted to <a href="https://ccneuro.org/">CCN 2023</a>!
+* Extended abstract on object dimensions in DNNs accepted to <a href="https://ccneuro.org/">CCN 2023</a>!
 * One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to NeurIPS 2023!
 * Two papers submitted to NeurIPS 2023!
 * I am presenting our paper on <a href="https://openreview.net/pdf?id=ReDQ1OUQR0X">human alignment of neural network representations</a> virtually at ICLR 2023!
