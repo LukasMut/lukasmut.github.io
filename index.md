@@ -37,7 +37,7 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 ## News
 
 ### 2023
-* Extended abstract on object dimensions in DNNs accepted to <a href="https://ccneuro.org/">CCN 2023</a>!
+* Extended abstract on interpretable object dimensions in DNNs accepted to <a href="https://ccneuro.org/">CCN 2023</a>!
 * One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to NeurIPS 2023!
 * Two papers submitted to NeurIPS 2023!
 * I am presenting our paper on <a href="https://arxiv.org/pdf/2211.01201.pdf">human alignment of neural network representations</a> virtually at ICLR 2023!
@@ -45,10 +45,13 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 
 ### 2022
 * Paper accepted to the <a href="https://www.svrhm.com/">SVRHM workshop</a> @ NeurIPS 2022!
-* Our paper on <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/da1a97b53eec1c763c6d06835538fe3e-Abstract-Conference.html"><i>Variational Interpretable Concept Embeddings (VICE)</i></a> was accepted to NeurIPS 2022!
+* One paper submitted to ICLR 2023!
 * I gave my first ever Machine Learning lecture at TU Berlin!
-* I received a Google Research Collabs grant with <a href="https://research.google/people/106005/">Simon Kornblith</a> to work on human alignment! I will be commencing the collaboration as part of the Google Research Collabs Cohort 2022/23 in November!
+* Our paper on <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/da1a97b53eec1c763c6d06835538fe3e-Abstract-Conference.html"><i>Variational Interpretable Concept Embeddings (VICE)</i></a> was accepted to NeurIPS 2022!
+* I received a Google Research Collabs grant with <a href="https://research.google/people/106005/">Simon Kornblith</a> to work on human alignment (80.000 USD research funding + 10.000 USD Google Cloud credits)! I will be commencing the collaboration as part of the Google Research Collabs Cohort 2022/23 in November!
 * I was awarded 1,000 USD as part of the Google Cloud Platform research credits programme for working on long-tail classification with <a href="https://scholar.google.at/citations?user=QCARd5gAAAAJ&hl=en">Thomas Unterthiner</a>!
+* One paper submitted to NeurIPS 2022!
+* Abstract on interpretable object dimensions in DNNs accepted as an oral to VSS 2022!
 * I was accepted into the Berlin Institute for the Foundations of Learning and Data <a href="https://www.bifold.berlin/">(BIFOLD)</a> to continue my PhD studies at TU Berlin with a fully-funded position!
 										
 ### 2021
