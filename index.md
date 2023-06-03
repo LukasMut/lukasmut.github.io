@@ -40,8 +40,8 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 * Extended abstract on object dimensions in DNNs accepted to <a href="https://ccneuro.org/">CCN 2023</a>!
 * One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to NeurIPS 2023!
 * Two papers submitted to NeurIPS 2023!
-* I am presenting our paper on <a href="https://openreview.net/pdf?id=ReDQ1OUQR0X">human alignment of neural network representations</a> virtually at ICLR 2023!
-* Paper on <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">human alignment of neural network representations</a> accepted to ICLR 2023!
+* I am presenting our paper on <a href="https://arxiv.org/pdf/2211.01201.pdf">human alignment of neural network representations</a> virtually at ICLR 2023!
+* Paper on <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">human alignment of neural network representations</a> accepted to ICLR 2023 in Kigali, Rwanda!
 
 ### 2022
 * Paper accepted to the <a href="https://www.svrhm.com/">SVRHM workshop</a> @ NeurIPS 2022!
@@ -67,7 +67,7 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 * Our algorithm that won the PAN autorship attribution competition at CLEF 2019 was featured in the <a href="https://ceur-ws.org/Vol-2380/">CLEF 2019 Working Notes</a>!
 * Our team won the PAN authorship attribution competition at <a href="http://www.clef-initiative.eu/">CLEF<a> 2019 in Lugano, Switzerland!
 * Paper on <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00375/full"><i>Visual Working Memory</i></a> from my time as a research intern during my BSc accepted to Frontiers in Psychology!
-* Paper on <a href="https://jeps.efpsa.org/articles/10.5334/jeps.435"><i>Amblyopia</i></a> from my time as a research intern during my BSc accepted to the <a href="https://efpsa.org/">Journal</a> of European Psychology Students (JEPS)!
+* Paper on <a href="https://jeps.efpsa.org/articles/abstract/10.5334/jeps.435/"><i>Amblyopia</i></a> from my time as a research intern during my BSc accepted to the <a href="https://efpsa.org/">Journal of European Psychology Students (JEPS)</a>!
 
 ### 2018
 * I was addmitted to the <a href='https://studies.ku.dk/masters/it-and-cognition/'> IT & Cognition</a> MSc programme at the <a href='https://di.ku.dk/english/' >University of Copenhagen</a>. Excited to start working on Natural Language Processing in Copenhagen! I will be starting my studies in September.
