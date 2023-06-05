@@ -11,7 +11,7 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 # Academic Background
 
 * 2021- | <b>PhD, Machine Learning</b>,
-	                <a href="https://www.bifold.berlin/">Machine Learning Group / BIFOLD,</a>
+	                <a href="https://www.bifold.berlin/">Machine Learning Group & BIFOLD,</a>
 	                <a href="https://www.tu.berlin/en/">TU Berlin</a>, Germany
 
 * 2021- | <b>Guest researcher, Cognitive Computational Neuroscience</b>
@@ -22,10 +22,14 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group,</a>
 	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Insitute for Human Cognitive and Brain Sciences</a>, Germany
 
-* 2018-2020 | <b>M.Sc. IT & Cognition</b>
-	                <a href= "https://di.ku.dk/english/research/nlp/" id="ku_cs"> Department of Computer Science,</a>
-	                <a href="https://di.ku.dk/english/research/machine-learning/" id="ku">University of Copenhagen</a>, Denmark
+* 2018-2020 | <b>M.Sc. IT & Cognition (major) / Computer Science (minor)</b>
+	                <a href="https://di.ku.dk/english/research/nlp/" id="ku_cs"> Department of Computer Science,</a>
+	                <a href="https://www.ku.dk/english/" id="ku">University of Copenhagen</a>, Denmark
 -- Thesis: <a href="https://arxiv.org/abs/2006.08342"><i>Subjective Question Answering: Deciphering the inner workings of Transformers in the realm of subjectivity</i></a>
+
+* 2015-2018 | <b>B.Sc. Cognitive Psychology</b>
+	                <a href="https://psychologie.univie.ac.at/en/research/" id="uvie_psy"> Faculty of Psychology,</a>
+	                <a href="https://www.univie.ac.at/en/" id="uvie">University of Vienna</a>, Austria
 
 
 ## Links
