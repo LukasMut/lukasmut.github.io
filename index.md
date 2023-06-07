@@ -14,11 +14,11 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 	                <a href="https://www.bifold.berlin/">Machine Learning Group & BIFOLD,</a>
 	                <a href="https://www.tu.berlin/en/">TU Berlin</a>, Germany
 
-* 2021- | <b>Guest researcher, Cognitive Computational Neuroscience</b>
+* 2021- | <b>Guest researcher, Computational Cognitive Neuroscience</b>
 	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group,</a>
 	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Insitute for Human Cognitive and Brain Sciences</a>, Germany
 
-* 2020-2021 | <b>Research Assistant (RA), Cognitive Computational Neuroscience</b>
+* 2020-2021 | <b>Research Assistant (RA), Computational Cognitive Neuroscience</b>
 	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group,</a>
 	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Insitute for Human Cognitive and Brain Sciences</a>, Germany
 
