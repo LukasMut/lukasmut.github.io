@@ -41,7 +41,7 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 ## News
 
 ### 2023
-* New preprint on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a>!
+* New preprint on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a> available on arXiv!
 * Paper on interpretable object dimensions in DNNs accepted to <a href="https://ccneuro.org/">CCN 2023</a>!
 * One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to NeurIPS 2023!
 * Two papers submitted to NeurIPS 2023!
