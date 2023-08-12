@@ -41,32 +41,36 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 ## News
 
 ### 2023
-* New preprint on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a> available on arXiv!
-* Paper on interpretable object dimensions in DNNs accepted to <a href="https://ccneuro.org/">CCN 2023</a>!
-* One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to NeurIPS 2023!
-* Two papers submitted to NeurIPS 2023!
-* I am presenting our paper on <a href="https://arxiv.org/pdf/2211.01201.pdf">human alignment of neural network representations</a> virtually at ICLR 2023!
-* Paper on <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">human alignment of neural network representations</a> accepted to ICLR 2023 in Kigali, Rwanda!
+* August: I gave an extended talk on _human alignment of neural network representations_ at the <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>!
+* July: I am a reviewer for <a href="https://neurips.cc/">NeurIPS 2023</a>!
+* July: I gave a spotlight talk on _human alignment of neural network representations_ at the annual <a href="https://www.bifold.berlin/">BIFOLD</a> retreat!
+* June: New preprint on <a href="https://arxiv.org/pdf/2307.02245.pdf">set learning for accurate and calibrated models</a> available on arXiv!
+* June: New preprint on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a> available on arXiv!
+* May: Paper on interpretable object dimensions in Deep Neural Nets accepted to <a href="https://ccneuro.org/">CCN 2023</a>!
+* May: One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to NeurIPS 2023!
+* May: Two papers submitted to <a href="https://neurips.cc/">NeurIPS 2023</a>!
+* May: I am presenting our paper on <a href="https://arxiv.org/pdf/2211.01201.pdf">human alignment of neural network representations</a> virtually at ICLR 2023!
+* January: Paper on <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">human alignment of neural network representations</a> accepted to ICLR 2023 in Kigali, Rwanda!
 
 ### 2022
-* Paper accepted to the <a href="https://www.svrhm.com/">SVRHM workshop</a> @ NeurIPS 2022!
-* One paper submitted to ICLR 2023!
-* I gave my first ever Machine Learning lecture at TU Berlin!
-* Our paper on <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/da1a97b53eec1c763c6d06835538fe3e-Abstract-Conference.html">Variational Interpretable Concept Embeddings (VICE)</a> was accepted to NeurIPS 2022!
-* I received a Google Research Collabs grant with <a href="https://research.google/people/106005/">Simon Kornblith</a> to work on human alignment (80.000 USD research funding + 10.000 USD Google Cloud credits)! I will be commencing the collaboration as part of the Google Research Collabs Cohort 2022/23 in November!
-* I was awarded 1,000 USD as part of the Google Cloud Platform research credits programme for working on long-tail classification with <a href="https://scholar.google.at/citations?user=QCARd5gAAAAJ&hl=en">Thomas Unterthiner</a>!
-* One paper submitted to NeurIPS 2022!
-* Abstract on interpretable object dimensions in DNNs accepted as an oral to VSS 2022!
-* I was accepted into the Berlin Institute for the Foundations of Learning and Data <a href="https://www.bifold.berlin/">(BIFOLD)</a> to continue my PhD studies at TU Berlin with a fully-funded position!
+* October: Paper accepted to the <a href="https://www.svrhm.com/">SVRHM workshop</a> @ NeurIPS 2022!
+* October: I gave my first ever Machine Learning lecture at TU Berlin!
+* September: One paper submitted to ICLR 2023!
+* September: Our paper on <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/da1a97b53eec1c763c6d06835538fe3e-Abstract-Conference.html">Variational Interpretable Concept Embeddings (VICE)</a> was accepted to NeurIPS 2022!
+* September: I received a Google Research Collabs grant with <a href="https://research.google/people/106005/">Simon Kornblith</a> to work on human alignment (80.000 USD research funding + 10.000 USD Google Cloud credits)! I will be commencing the collaboration as part of the Google Research Collabs Cohort 2022/23 in November!
+* July: I was awarded 1,000 USD as part of the Google Cloud Platform research credits programme for working on long-tail classification with <a href="https://scholar.google.at/citations?user=QCARd5gAAAAJ&hl=en">Thomas Unterthiner</a>!
+* May: One paper submitted to NeurIPS 2022!
+* February: : Abstract on interpretable object dimensions in DNNs accepted as an oral to VSS 2022!
+* February: I was accepted into the Berlin Institute for the Foundations of Learning and Data <a href="https://www.bifold.berlin/">(BIFOLD)</a> to continue my PhD studies at TU Berlin with a fully-funded position!
 										
 ### 2021
-* Paper on my Python toolbox <a href="https://github.com/ViCCo-Group/thingsvision">thingsvision</a> for extracting features from state-of-the-art computer vision models accepted to Frontiers in Neuroinformatics!
-* As of July 1st, I am a PhD student in the Machine Learning Group at TU Berlin, working on cognitively inspired Machine Learning! Excited to continue my journey on the intersection of ML and Cognitive Science; this time with a stronger emphasis on ML rather than on Cognitive Science.
+* September: Paper on my Python toolbox <a href="https://github.com/ViCCo-Group/thingsvision">thingsvision</a> for extracting features from state-of-the-art computer vision models accepted to Frontiers in Neuroinformatics!
+* July: As of July 1st, I am a PhD student in the Machine Learning Group at TU Berlin, working on cognitively inspired Machine Learning! Excited to continue my journey on the intersection of ML and Cognitive Science; this time with a stronger emphasis on ML rather than on Cognitive Science.
 										
 ### 2020
-* Paper on  <a href="https://www.aclweb.org/anthology/2020.blackboxnlp-1.8/">Unsupervised QA Evaluation of Transformers</a> with my previous MSc. supervisors <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> accepted to BlackBoxNLP @ <a href="https://2020.emnlp.org/">EMNLP 2020</a>!
-* In August I started as a full-time Research Assistant (RA) in the <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">Vision and Computational Cognition Group  </a> at the <a href="https://www.cbs.mpg.de/">Max Planck Institute for Human Cognitive and Brain Sciences</a> in Leipzig, Germany. Excited to start working at the intersection of Machine Learning and Cognitive Neuroscience!
-* In June I successfully defended my MSc thesis on <a href="https://arxiv.org/abs/2006.08342">Subjective Question Answering</a> and graduated with distinction from the University of Copenhagen.
+* September : Paper on  <a href="https://www.aclweb.org/anthology/2020.blackboxnlp-1.8/">Unsupervised QA Evaluation of Transformers</a> with my previous MSc. supervisors <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> accepted to BlackBoxNLP @ <a href="https://2020.emnlp.org/">EMNLP 2020</a>!
+* August: In August I started as a full-time Research Assistant (RA) in the <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">Vision and Computational Cognition Group  </a> at the <a href="https://www.cbs.mpg.de/">Max Planck Institute for Human Cognitive and Brain Sciences</a> in Leipzig, Germany. Excited to start working at the intersection of Machine Learning and Cognitive Neuroscience!
+* June/July: In June I successfully defended my MSc thesis on <a href="https://arxiv.org/abs/2006.08342">Subjective Question Answering</a> and graduated with distinction from the University of Copenhagen.
 
 ### 2019
 * Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/8907309">Assisted Declarative Process Creation from Natural Language Descriptions</a> won the Best Demonstration Award at EDOC 2019! 
