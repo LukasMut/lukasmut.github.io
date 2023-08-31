@@ -4,7 +4,7 @@ layout: default
 
 # Research Profile
 
-I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). I am also a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I am mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a>. I am also part of a Research Collaboration with <a href="https://research.google/teams/brain/">Google DeepMind</a>, where I am advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation. 
+I am a Student Researcher at Google DeepMind and a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). I am also a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I am mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a>. During my PhD, I've been part of a Research Collaboration between TU Berlin and <a href="https://research.google/teams/brain/">Google DeepMind</a>, where I was advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation. 
 
 <p>My research mainly revolves around representation learning. In particular, I am trying to both understand the factors that influence the degree of  <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human and neural network representations</a> and figure out how we can leverage human inductive biases or insights from cognitive science most fruitfully for (robust) machine learning. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my work. Feel free to reach out to me, if you believe our research intentions are aligned and you are keen to collaborate on a project.</p>
 
@@ -41,6 +41,8 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 ## News
 
 ### 2023
+* _October_: I've started working as a Student Researcher @ Google DeepMind!
+* _August_: I am presenting work at <a href="https://2023.ccneuro.org/">CCN</a>!
 * _August_: NeurIPS rebuttals consume a lot of time!
 * _August_: I gave an extended talk on _human alignment of neural network representations_ at the <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>!
 * _July_: I am serving as a reviewer for <a href="https://neurips.cc/">NeurIPS 2023</a>!
@@ -70,7 +72,7 @@ I am a PhD student in Machine Learning at TU Berlin and the Berlin Institute for
 										
 ### 2020
 * _September_: Paper on  <a href="https://www.aclweb.org/anthology/2020.blackboxnlp-1.8/">Unsupervised QA Evaluation of Transformers</a> with my previous MSc. supervisors <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> accepted to BlackBoxNLP @ <a href="https://2020.emnlp.org/">EMNLP 2020</a>!
-* August: In August I started as a full-time Research Assistant (RA) in the <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">Vision and Computational Cognition Group  </a> at the <a href="https://www.cbs.mpg.de/">Max Planck Institute for Human Cognitive and Brain Sciences</a> in Leipzig, Germany. Excited to start working at the intersection of Machine Learning and Cognitive Neuroscience!
+* August: I started as a full-time Research Assistant (RA) in the <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">Vision and Computational Cognition Group  </a> at the <a href="https://www.cbs.mpg.de/">Max Planck Institute for Human Cognitive and Brain Sciences</a> in Leipzig, Germany. Excited to start working at the intersection of Machine Learning and Cognitive Neuroscience!
 * _June/July_: In June I successfully defended my MSc thesis on <a href="https://arxiv.org/abs/2006.08342">Subjective Question Answering</a> and in July I graduated with distinction from the University of Copenhagen (UCPH).
 
 ### 2019
