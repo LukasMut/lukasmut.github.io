@@ -41,10 +41,15 @@ I am a Student Researcher at Google DeepMind and a PhD student in Machine Learni
 ## News
 
 ### 2023
+* _October_: I gave an invited talk on _human alignment of neural network representations_ in the lab of <a href="https://mtoneva.com/">Mariya Toneva</a>!
+* _October_: One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to ICLR 2024!
+* _October_: I am serving as a reviewer for <a href="https://www.iclr.cc/">ICLR 2024</a>!
 * _October_: I've started working as a Student Researcher @ Google DeepMind!
+* _September_: Our paper on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a> was accepted to NeurIPS 2023! Hooray! 
 * _August_: I am presenting work at <a href="https://2023.ccneuro.org/">CCN</a>!
 * _August_: NeurIPS rebuttals consume a lot of time!
 * _August_: I gave an extended talk on _human alignment of neural network representations_ at the <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>!
+* _July_: Our workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> was rejected at NeurIPS 2023!
 * _July_: I am serving as a reviewer for <a href="https://neurips.cc/">NeurIPS 2023</a>!
 * _July_: I gave a short spotlight talk on _human alignment of neural network representations_ at the annual <a href="https://www.bifold.berlin/">BIFOLD</a> retreat!
 * _June_: New preprint on <a href="https://arxiv.org/pdf/2307.02245.pdf">set learning for accurate and calibrated models</a> available on arXiv!
