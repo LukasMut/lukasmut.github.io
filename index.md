@@ -4,13 +4,13 @@ layout: default
 
 # Research Profile
 
-I am a Student Researcher at Google DeepMind and a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). I am also a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I am mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a>. During my PhD, I've been part of a Research Collaboration between TU Berlin and <a href="https://research.google/teams/brain/">Google DeepMind</a>, where I was advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation. 
+I am a Student Researcher at Google DeepMind and a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). I am also a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I am mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a>, <a href="https://simonster.com/">Simon Kornblith</a>, and <a href="https://lampinen.github.io/">Andrew Lampinen</a> . During my PhD, I've been part of a Research Collaboration between TU Berlin and <a href="https://research.google/teams/brain/">Google Brain</a>, where I was advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation. 
 
-<p>My research mainly revolves around representation learning. In particular, I am trying to both understand the factors that influence the degree of  <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human and neural network representations</a> and figure out how we can leverage human inductive biases or insights from cognitive science most fruitfully for (robust) machine learning. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my work. Feel free to reach out to me, if you believe our research intentions are aligned and you are keen to collaborate on a project.</p>
+<p>My research mainly revolves around representation learning. In particular, I am trying to both understand the factors that influence the degree of  <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human and neural network representations</a> and figure out how we can leverage human inductive biases or insights from cognitive science most fruitfully for (general purpose) machine learning. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my (recent) work. Feel free to reach out to me, if you believe our research intentions are aligned and you are keen to collaborate on a project.</p>
 
 # Academic Background
 
-* 2023- | <b>Student Researcher, Google DeepMind</b>,
+* 2023- | <b>Student Researcher</b>,
 	                <a href="https://deepmind.google/">Google DeepMind</a>
 
 * 2021- | <b>PhD, Machine Learning</b>,
@@ -41,20 +41,31 @@ I am a Student Researcher at Google DeepMind and a PhD student in Machine Learni
 * <a href="https://github.com/LukasMut" class="icon fa-github">GitHub</a>
 * <a href="https://www.linkedin.com/in/lukas-muttenthaler/" class="icon fa-linkedin">LinkedIn</a>
 
+## Service
+
+* Organizer for <a href="https://representational-alignment.github.io/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna.
+* Reviewer for <a href="https://icml.cc/Conferences/2024">ICML 2024</a>
+* Reviewer for <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a>
+* Reviewer for <a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a>
+
 ## News
 
+### 2024
+
+* _January_: Our Call for Papers for <a href="https://representational-alignment.github.io/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna is out! We are looking forward to your submissions!
+
 ### 2023
+* _December_: Our workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> was accepted to ICLR 2024! See y'all in Vienna!
 * _October_: I gave an invited talk on _human alignment of neural network representations_ in the lab of <a href="https://mtoneva.com/">Mariya Toneva</a>!
 * _October_: One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to ICLR 2024!
 * _October_: I am serving as a reviewer for <a href="https://www.iclr.cc/">ICLR 2024</a>!
 * _October_: I've started working as a Student Researcher @ Google DeepMind!
 * _September_: Our paper on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a> was accepted to NeurIPS 2023! Hooray! 
-* _August_: I am presenting work at <a href="https://2023.ccneuro.org/">CCN</a>! Hello Oxford!
-* _August_: NeurIPS rebuttals consume a lot of time!
-* _August_: I gave an extended talk on _human alignment of neural network representations_ at the <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>!
-* _July_: Our workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> was unfortunately rejected at NeurIPS 2023!
+* _August_: I am presenting work on interpretable object dimensions at <a href="https://2023.ccneuro.org/">CCN</a>! Hello Oxford!
+* _August_: I gave an invited talk on _human alignment of neural network representations_ at the <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>!
+* _July_: Our workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> was unfortunately rejected at NeurIPS 2023 but we will not give up and re-submit a revised version to ICLR!
 * _July_: I am serving as a reviewer for <a href="https://neurips.cc/">NeurIPS 2023</a>!
-* _July_: I gave a short spotlight talk on _human alignment of neural network representations_ at the annual <a href="https://www.bifold.berlin/">BIFOLD</a> retreat!
+* _July_: I gave a spotlight talk on _human alignment of neural network representations_ at the annual <a href="https://www.bifold.berlin/">BIFOLD</a> retreat!
 * _June_: New preprint on <a href="https://arxiv.org/pdf/2307.02245.pdf">set learning for accurate and calibrated models</a> available on arXiv!
 * _June_: New preprint on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a> available on arXiv!
 * _May_: Paper on interpretable object dimensions in Deep Neural Nets accepted to <a href="https://ccneuro.org/">CCN 2023</a>! See y'all in Oxford!
