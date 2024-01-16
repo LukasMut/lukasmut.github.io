@@ -52,6 +52,7 @@ I am a Student Researcher at <a href="https://deepmind.google/">Google DeepMind<
 
 ### 2024
 
+* _January_: Our paper on <a href="https://arxiv.org/pdf/2307.02245.pdf">set learning for accurate and calibrated models</a> was accepted to ICLR 2024! Hooray!
 * _January_: Our Call for Papers for <a href="https://representational-alignment.github.io/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna is out! We are looking forward to your submissions! Submission deadline is February 3rd.
 
 ### 2023
