@@ -10,14 +10,14 @@ I am a Student Researcher at <a href="https://deepmind.google/">Google DeepMind<
 
 # Academic Background
 
-* 2023- | <b>Student Researcher</b>,
+* 2023-2025 | <b>Student Researcher</b>,
 	                <a href="https://deepmind.google/">Google DeepMind</a>
 
-* 2021- | <b>PhD, Machine Learning</b>,
+* 2021-2025 | <b>PhD, Machine Learning</b>,
 	                <a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
 	                <a href="https://www.tu.berlin/en/">TU Berlin</a>, Germany
 
-* 2021- | <b>Guest researcher, Computational Cognitive Neuroscience</b>
+* 2021-2024 | <b>Guest researcher, Computational Cognitive Neuroscience</b>
 	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
 	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Insitute for Human Cognitive and Brain Sciences</a>, Germany
 
@@ -43,15 +43,29 @@ I am a Student Researcher at <a href="https://deepmind.google/">Google DeepMind<
 
 ## Service
 
-* Organizer for <a href="https://representational-alignment.github.io/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna.
-* Reviewer for <a href="https://icml.cc/Conferences/2024">ICML 2024</a>
-* Reviewer for <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a>
-* Reviewer for <a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a>
+### Conference & Workshop Organization
+* Organizer for <a href="https://representational-alignment.github.io/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna
+* Part of the Trainee Organizing Committee for <a href="https://2024.ccneuro.org/ccn-organizers/">CCN 2024</a> in Boston
+
+### Reviewing
+* Reviewer for <a href="https://neurips.cc/">NeurIPS</a>
+* Reviewer for <a href="https://iclr.cc/">ICLR</a>
+* Reviewer for <a href="https://icml.cc/">ICML</a>
+* Reviewer for <a href="https://aaai.org/">AAAI</a>
+* Reviewer for <a href="https://jmlr.org/tmlr/">TMLR</a>
 
 ## News
 
 ### 2024
 
+* _August_: I am back at Google DeepMind as a part-time Student Researcher!
+* _June_: New preprint on <a href="https://arxiv.org/pdf/2406.19087">Dimensions underlying the alignment of deep neural nets with humans</a> available on arXiv! 
+* _June_: I gave an invited talk on human alignment at the <a href="https://www.ru.nl/en/donders-institute">Donders Institute</a> in the Netherlands!
+* _May_: I am attending <a href="https://iclr.cc/">ICLR</a> in Vienna as a poster presenter and workshop organizer! Hit me up!
+* _May_: One paper accepted to <a href="https://2024.ccneuro.org/">CCN 2024</a>!
+* _March_: I finished my internship at Google DeepMind!
+* _March_: I am serving as a reviewer for <a href="https://www.icml.cc/">ICML 2024</a>!
+* _March_: I gave an invited talk at Helmholtz AI & TUM in the <a href="https://cpilab.org/index.html">Human-Centered AI Lab</a> and the <a href="https://www.eml-unitue.de/#team">Explainable Machine Learning Lab</a> of Eric Schulz and Zeynep Akata respectively!
 * _January_: Our paper on <a href="https://arxiv.org/pdf/2307.02245.pdf">set learning for accurate and calibrated models</a> was accepted to ICLR 2024! Hooray!
 * _January_: Our Call for Papers for <a href="https://representational-alignment.github.io/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna is out! We are looking forward to your submissions! Submission deadline is February 3rd.
 
