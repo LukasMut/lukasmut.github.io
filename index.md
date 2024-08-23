@@ -6,7 +6,7 @@ layout: default
 
 I am a Student Researcher at <a href="https://deepmind.google/">Google DeepMind</a> and a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). I am also a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I am mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a>, <a href="https://simonster.com/">Simon Kornblith</a>, and <a href="https://lampinen.github.io/">Andrew Lampinen</a>. During my PhD, I've been part of a Research Collaboration between TU Berlin and <a href="https://research.google/teams/brain/">Google Brain</a>, where I was advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation. 
 
-<p>My research mainly revolves around representation learning. In particular, I am trying to both understand the factors that influence the degree of  <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human and neural network representations</a> and figure out how we can leverage human inductive biases or insights from cognitive science most fruitfully for (general purpose) machine learning. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my (recent) work. Feel free to reach out to me, if you believe our research intentions are aligned and you are keen to collaborate on a project.</p>
+<p>My research mainly revolves around representation learning in computer vision. In particular, I try to understand the factors that influence the degree of <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human mental and neural network representations</a> and pin down the best way to <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">leverage human inductive biases about object similarity</a> for deep learning models. My goal is to build interpretable foundation models that generalize to downstream out-of-distribution settings. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my (recent) work. Feel free to reach out to me, if you believe our research intentions are aligned and you are keen to collaborate on a project.</p>
 
 # Academic Background
 
@@ -48,16 +48,13 @@ I am a Student Researcher at <a href="https://deepmind.google/">Google DeepMind<
 * Part of the Trainee Organizing Committee for <a href="https://2024.ccneuro.org/ccn-organizers/">CCN 2024</a> in Boston
 
 ### Reviewing
-* Reviewer for <a href="https://neurips.cc/">NeurIPS</a>
-* Reviewer for <a href="https://iclr.cc/">ICLR</a>
-* Reviewer for <a href="https://icml.cc/">ICML</a>
-* Reviewer for <a href="https://aaai.org/">AAAI</a>
-* Reviewer for <a href="https://jmlr.org/tmlr/">TMLR</a>
+* Reviewer for <a href="https://neurips.cc/">NeurIPS</a>, <a href="https://iclr.cc/">ICLR</a>, <a href="https://icml.cc/">ICML</a>, <a href="https://aaai.org/">AAAI</a>, <a href="https://jmlr.org/tmlr/">TMLR</a>.
 
 ## News
 
 ### 2024
 
+* _August_: I attended <a href="https://2024.ccneuro.org/">CCN 2024</a> in Boston and presented some of our most recent work on alignment in the vision space!
 * _August_: I am back at Google DeepMind as a part-time Student Researcher!
 * _June_: New preprint on <a href="https://arxiv.org/pdf/2406.19087">Dimensions underlying the alignment of deep neural nets with humans</a> available on arXiv! 
 * _June_: I gave an invited talk on human alignment at the <a href="https://www.ru.nl/en/donders-institute">Donders Institute</a> in the Netherlands!
