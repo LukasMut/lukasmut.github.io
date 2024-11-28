@@ -106,7 +106,7 @@ Representations across Abstraction Levels</a> is finally out as a preprint on ar
 										
 ### 2021
 * _September_: Paper on my Python toolbox <a href="https://github.com/ViCCo-Group/thingsvision">thingsvision</a> for extracting features from state-of-the-art computer vision models accepted to Frontiers in Neuroinformatics!
-* _July_: As of July 1st, I am a PhD student in the Machine Learning Group at TU Berlin, working on cognitively inspired Machine Learning! Excited to continue my journey on the intersection of ML and Cognitive Science; this time with a stronger emphasis on ML rather than on Cognitive Science.
+* _July_: As of July 1st, I am a PhD student in the Machine Learning Group at TU Berlin, working on cognitively-inspired Machine Learning! Excited to continue my journey at the intersection of ML and Cognitive Science; this time with a stronger emphasis on ML than on CogSci.
 										
 ### 2020
 * _September_: Paper on  <a href="https://www.aclweb.org/anthology/2020.blackboxnlp-1.8/">Unsupervised QA Evaluation of Transformers</a> with my previous MSc. supervisors <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> accepted to BlackBoxNLP @ <a href="https://2020.emnlp.org/">EMNLP 2020</a>!
