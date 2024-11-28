@@ -99,7 +99,7 @@ Representations across Abstraction Levels</a> is finally out as a preprint on ar
 * _September_: One paper submitted to ICLR 2023!
 * _September_: Our paper on <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/da1a97b53eec1c763c6d06835538fe3e-Abstract-Conference.html">Variational Interpretable Concept Embeddings (VICE)</a> was accepted to NeurIPS 2022!
 * _September_: I received a Google Research Collabs grant with <a href="https://research.google/people/106005/">Simon Kornblith</a> to work on human alignment (80.000 USD research funding + 10.000 USD Google Cloud credits)! I will be commencing the collaboration as part of the Google Research Collabs Cohort 2022/23 in November!
-* _July_: I was awarded 1,000 USD as part of the Google Cloud Platform research credits programme for working on long-tail classification with <a href="https://scholar.google.at/citations?user=QCARd5gAAAAJ&hl=en">Thomas Unterthiner</a>!
+* _July_: I was awarded 1,000 USD as part of the Google Cloud Platform research credits programme for working on long-tail image classification with <a href="https://scholar.google.at/citations?user=QCARd5gAAAAJ&hl=en">Thomas Unterthiner</a>!
 * _May_: One paper submitted to NeurIPS 2022!
 * _February_: Abstract on interpretable object dimensions in DNNs accepted as an oral to VSS 2022!
 * _February_: I was accepted into the Berlin Institute for the Foundations of Learning and Data <a href="https://www.bifold.berlin/">(BIFOLD)</a> to continue my PhD studies at TU Berlin with a fully-funded position!
