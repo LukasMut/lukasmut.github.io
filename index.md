@@ -4,20 +4,21 @@ layout: default
 
 # Research Profile
 
-<p>I am a Student Researcher at <a href="https://deepmind.google/">Google DeepMind</a> and a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). I am also a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I am mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a>, <a href="https://simonster.com/">Simon Kornblith</a>, and <a href="https://lampinen.github.io/">Andrew Lampinen</a>. During my PhD, I've been part of a Research Collaboration between TU Berlin and <a href="https://research.google/teams/brain/">Google Brain</a>, where I was advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation.</p>
+<p>I am a (full-time) Senior ML Research Scientist at <a href="https://www.aignostics.com/">Aignostics</a> and a (part-time) Senior Researcher in the Explainable Machine Learning Group at TU Munich, working on model merging, representation merging, and post-training approaches in Computer Vision. Prior to that, I was a Student Researcher at <a href="https://deepmind.google/">Google DeepMind</a> and a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). Throughout most of my PhD I have also been a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I was mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> (TU Berlin) and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a> (MPI), <a href="https://simonster.com/">Simon Kornblith</a> (Anthropic), and <a href="https://lampinen.github.io/">Andrew Lampinen</a> (Google DeepMind). During my PhD, I've been part of a one-year Research Collaboration between TU Berlin and <a href="https://research.google/teams/brain/">Google Brain</a>, where I was advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation.</p>
 
 <p>My research mainly revolves around representation learning in computer vision. In particular, I try to understand the factors that influence the degree of <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human mental and neural network representations</a> and use inspiration from human cognition to <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">improve deep learning models</a>. My goal is to build interpretable (vision) foundation models that generalize to downstream out-of-distribution settings (similar to how the human brain does); something that we partly achieved <a href="https://arxiv.org/pdf/2409.06509">here</a>.</p> 
 
-<p>Occasionally I dabble in philosophical discussions about <a href="https://arxiv.org/pdf/2310.13018">representational alignment</a> and try to develop common language across research fields together with other people in the field. Recently, I've been thinking a lot about the <a href="https://arxiv.org/pdf/2411.05561">transferability of representational similarities across datasets</a>. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my work. Feel free to reach out to me, if you believe our research intentions are aligned (pun intended) and you are keen to collaborate on a project.</p>
+<p>Occasionally I dabble in philosophical discussions about <a href="https://arxiv.org/pdf/2310.13018">representational alignment</a> and try to develop common language across research disciplines together with other people in the field. Recently, I've been thinking a lot about the <a href="https://arxiv.org/pdf/2411.05561">transferability of representational similarities across datasets</a>. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my work. Feel free to reach out to me, if you believe our research intentions are aligned (pun intended) and you are keen to collaborate on a project.</p>
 
 # Academic Background
 
-* 2023-2025 | <b>Student Researcher</b>,
-	                <a href="https://deepmind.google/">Google DeepMind</a>
+* 2025- | <b>Senior Researcher (part-time), Computer Vision</b>
+	                <a href= "https://www.eml-munich.de/" id="eml">Expainable Machine Learning Group</a>,
+	                <a href="hhttps://www.tum.de/" id="tum">TU Munich</a>, Germany
 
-* 2021-2025 | <b>PhD, Machine Learning</b>,
+* 2021-2025 | <b>PhD Machine Learning (_summa cum laude_)</b>,
 	                <a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
-	                <a href="https://www.tu.berlin/en/">TU Berlin</a>, Germany
+	                <a href="https://www.tu.berlin/en/" id="tub">TU Berlin</a>, Germany
 
 * 2021-2024 | <b>Guest researcher, Computational Cognitive Neuroscience</b>
 	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
@@ -36,6 +37,14 @@ layout: default
 	                <a href="https://psychologie.univie.ac.at/en/research/" id="uvie_psy"> Faculty of Psychology</a>,
 	                <a href="https://www.univie.ac.at/en/" id="uvie">University of Vienna</a>, Austria
 
+# Industry Roles
+
+* 2025- | <b>Senior ML Research Scientist</b>,
+	                <a href="https://www.aignostics.com/">Aignostics</a>
+
+* 2023-2025 | <b>Student Researcher</b>,
+	                <a href="https://deepmind.google/">Google DeepMind</a>
+
 
 ## Links
 * <a href="https://twitter.com/lukas_mut" class="icon fa-twitter">Twitter</a>
@@ -53,6 +62,16 @@ layout: default
 * Reviewer for <a href="https://neurips.cc/">NeurIPS</a>, <a href="https://iclr.cc/">ICLR</a>, <a href="https://icml.cc/">ICML</a>, <a href="https://aaai.org/">AAAI</a>, <a href="https://jmlr.org/tmlr/">TMLR</a>.
 
 ## News
+
+### 2025
+
+* _June_: One paper on the <a href="https://www.nature.com/articles/s42256-025-01041-7">conceptual differences between computer vision models and humans</a> was published in Nature Machine Intelligence!
+* _June_: I started as a guest researcher in the Explainable Machine Learning Group at TU Munich!
+* _May_: Our paper on the <a href="https://arxiv.org/pdf/2411.05561">training factors that drive the consistency of representational similarity across vision datasets</a> got accepted to <a href="https://icml.cc/">ICML 2025</a>!
+* _April_: I started working as a Senior Machine Learning Research Scientist at <a href="https://www.aignostics.com/">Aignostics</a>!
+* _April_: I successfully defended my PhD with _summa cum laude_ ("with highest distinction") at TU Berlin!
+* _February_: I handed in my dissertation!
+* _January_: I had my last day as a Student Researcher at Google DeepMind!
 
 ### 2024
 
