@@ -20,7 +20,7 @@ layout: default
 	                <a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
 	                <a href="https://www.tu.berlin/en/" id="tub">TU Berlin</a>, Germany
 
-* 2021-2024 | <b>Guest researcher, Computational Cognitive Neuroscience</b>
+* 2021-2024 | <b>Guest Researcher, Computational Cognitive Neuroscience</b>
 	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
 	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Insitute for Human Cognitive and Brain Sciences</a>, Germany
 
