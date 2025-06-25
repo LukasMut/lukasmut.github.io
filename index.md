@@ -55,7 +55,8 @@ layout: default
 ## Service
 
 ### Conference & Workshop Organization
-* Organizer for <a href="https://representational-alignment.github.io/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna
+* Organizer for <a href="https://representational-alignment.github.io/">Re<sup>2</sup>-Align: The Second Workshop on Representational Alignment</a> at ICLR 2025 in Singapore
+* Organizer for <a href="https://representational-alignment.github.io/">Re-Align: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna
 * Part of the Trainee Organizing Committee for <a href="https://2024.ccneuro.org/ccn-organizers/">CCN 2024</a> in Boston
 
 ### Reviewing
