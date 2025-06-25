@@ -16,7 +16,7 @@ layout: default
 	                <a href= "https://www.eml-munich.de/" id="eml">Expainable Machine Learning Group</a>,
 	                <a href="hhttps://www.tum.de/" id="tum">TU Munich</a>, Germany
 
-* 2021-2025 | <b>PhD Machine Learning (_summa cum laude_)</b>,
+* 2021-2025 | <b>PhD Machine Learning</b>
 	                <a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
 	                <a href="https://www.tu.berlin/en/" id="tub">TU Berlin</a>, Germany
 
