@@ -70,7 +70,7 @@ layout: default
 * _June_: I started as a guest researcher in the Explainable Machine Learning Group at TU Munich!
 * _May_: Our paper on the <a href="https://arxiv.org/pdf/2411.05561">training factors that drive the consistency of representational similarity across vision datasets</a> got accepted to <a href="https://icml.cc/">ICML 2025</a>!
 * _April_: I started working as a Senior Machine Learning Research Scientist at <a href="https://www.aignostics.com/">Aignostics</a>!
-* _April_: I successfully defended my PhD with _summa cum laude_ ("with highest distinction") at TU Berlin!
+* _April_: I successfully defended my PhD _summa cum laude_ ("with the highest distinction") at TU Berlin!
 * _February_: I handed in my dissertation!
 * _January_: I had my last day as a Student Researcher at Google DeepMind!
 
