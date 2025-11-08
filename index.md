@@ -78,8 +78,8 @@ layout: default
 Representations across Abstraction Levels</a> was published in _Nature_!
 * _October_: Our perspective <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment</a> was published in _TMLR_! Reviews are public on OpenReview and can be found <a href="https://openreview.net/forum?id=Hiq7lUh4Yn&noteId=Hiq7lUh4Yn">here</a>.
 * _October_: I started as a part-time postdoctoral researcher in the <a href="https://www.eml-munich.de/">Explainable Machine Learning Group</a> at <a href="https://www.helmholtz-munich.de/">Helmholtz Munich</a> alongside my industry work!
-* _September_: Our paper <a href="https://arxiv.org/pdf/2409.06509">Aligning Machine and Human Visual
-Representations across Abstraction Levels<a> just got accepted into _Nature_!
+* _September_: Our work on <a href="https://arxiv.org/pdf/2409.06509">Aligning Machine and Human Visual
+Representations across Abstraction Levels</a> just got accepted into the prestigious _Nature_ magazine!
 * _September_: Our massive collaborative perspective and review paper on representational alignment just got accepted to <a href="https://jmlr.org/tmlr/">_Transactions on Machine Learning Research (TMLR)_</a>!
 * _August_: I am attending <a href="https://2025.ccneuro.org/">CCN 2025</a> in Amsterdam! Come join as at the <a href="https://2025.ccneuro.org/community-event-representational-alignment/">Re<sup>3</sup>-Align Collaborative Hackathon</a> for spicy discussions on representational alignment!
 * _June_: One paper on the <a href="https://www.nature.com/articles/s42256-025-01041-7">conceptual differences between computer vision models and humans</a> was published in _Nature Machine Intelligence_!
