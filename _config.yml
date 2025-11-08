@@ -16,9 +16,8 @@
 title: Lukas Muttenthaler
 email: _
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in Machine Learning at the Department of Software Engineering and Theoretical Computer Science, TU Berlin, 
-  working on using human inductive biases to align and improve neural network representations, 
-  with a focus on low data regimes.
+  Senior Research Scientist in Machine Learning. Former PhD student in Machine Learning at the Department of Software Engineering and Theoretical Computer Science, TU Berlin, 
+  working on aligning the representations of computer vision models with human conceptual knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lukasmut.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lukas_mut
