@@ -6,19 +6,20 @@ layout: default
 
 <p>I am a (full-time) Senior ML Research Scientist at <a href="https://www.aignostics.com/">Aignostics</a> and a (part-time) Senior Researcher in the Explainable Machine Learning Group at TU Munich, working on model merging, representation merging, and post-training approaches in Computer Vision. Prior to that, I was a Student Researcher at <a href="https://deepmind.google/">Google DeepMind</a> and a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). Throughout most of my PhD I have also been a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I was mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> (TU Berlin) and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a> (MPI), <a href="https://simonster.com/">Simon Kornblith</a> (Anthropic), and <a href="https://lampinen.github.io/">Andrew Lampinen</a> (Google DeepMind). During my PhD, I've been part of a one-year Research Collaboration between TU Berlin and <a href="https://research.google/teams/brain/">Google Brain</a>, where I was advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation.</p>
 
-<p>My research mainly revolves around representation learning in computer vision. In particular, I try to understand the factors that influence the degree of <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human mental and neural network representations</a> and use inspiration from human cognition to <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">improve deep learning models</a>. My goal is to build interpretable (vision) foundation models that generalize to downstream out-of-distribution settings (similar to how the human brain does); something that we partly achieved <a href="https://arxiv.org/pdf/2409.06509">here</a>.</p> 
+<p>My research mainly revolves around representation learning in computer vision. In particular, I try to understand the factors that influence the degree of <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human mental and neural network representations</a> and use inspiration from human cognition to <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">improve deep learning models</a>. My goal is to build interpretable (vision) foundation models that generalize to downstream out-of-distribution settings (similar to how the human brain does); something that we partly achieved in <a href="https://www.nature.com/articles/s41586-025-09631-6">this Nature paper</a>.</p> 
 
-<p>Occasionally I dabble in philosophical discussions about <a href="https://arxiv.org/pdf/2310.13018">representational alignment</a> and try to develop common language across research disciplines together with other people in the field. Recently, I've been thinking a lot about the <a href="https://arxiv.org/pdf/2411.05561">transferability of representational similarities across datasets</a>. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my work. Feel free to reach out to me, if you believe our research intentions are aligned (pun intended) and you are keen to collaborate on a project.</p>
+<p>Occasionally I dabble in philosophical discussions about <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">representational alignment</a> and try to develop common language across research disciplines together with other people in the field. Recently, I've been thinking a lot about the <a href="https://arxiv.org/pdf/2411.05561">transferability of representational similarities across datasets</a>. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my work. Feel free to reach out to me, if you believe our research intentions are aligned (pun intended) and you are keen to collaborate on a project.</p>
 
 # Academic Background
 
-* 2025- | <b>Senior Researcher (part-time), Computer Vision</b>
+* 2025- | <b>Postdoctoral Researcher (part-time), Computer Vision</b>
 	                <a href= "https://www.eml-munich.de/" id="eml">Expainable Machine Learning Group</a>,
 	                <a href="hhttps://www.tum.de/" id="tum">TU Munich</a>, Germany
 
-* 2021-2025 | <b>PhD Machine Learning</b>
+* 2021-2025 | <b>PhD Computer Science / Machine Learning</b>
 	                <a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
 	                <a href="https://www.tu.berlin/en/" id="tub">TU Berlin</a>, Germany
+-- Thesis: <a href="https://depositonce.tu-berlin.de/items/0add8976-4d00-4dd0-8c24-6fbdcf253d2a">Representational alignment of humans and machines for computer vision</a>
 
 * 2021-2024 | <b>Guest Researcher, Computational Cognitive Neuroscience</b>
 	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
@@ -31,7 +32,7 @@ layout: default
 * 2018-2020 | <b>M.Sc. IT & Cognition </b>
 	                <a href="https://di.ku.dk/english/research/nlp/" id="ku_cs"> Department of Computer Science</a>,
 	                <a href="https://www.ku.dk/english/" id="ku">University of Copenhagen</a>, Denmark
--- Thesis: <a href="https://arxiv.org/abs/2006.08342">Subjective Question Answering: Deciphering the inner workings of Transformers in the realm of subjectivity</a>
+-- Thesis: <a href="https://arxiv.org/abs/2006.08342">Subjective Question Answering: Deciphering the inner workings of Transformers in the space of subjectivity</a>
 
 * 2015-2018 | <b>B.Sc. Cognitive Psychology</b>
 	                <a href="https://psychologie.univie.ac.at/en/research/" id="uvie_psy"> Faculty of Psychology</a>,
@@ -39,7 +40,7 @@ layout: default
 
 # Industry Roles
 
-* 2025- | <b>Senior ML Research Scientist</b>,
+* 2025- | <b>Senior Machine Learning Research Scientist (full-time)</b>,
 	                <a href="https://www.aignostics.com/">Aignostics</a>
 
 * 2023-2025 | <b>Student Researcher</b>,
@@ -54,19 +55,20 @@ layout: default
 
 ## Key publications
 * __Muttenthaler, L.__, Greff, K., Born, F., Spitzer, B., Kornblith, S., Mozer, M.C., M&uuml;ller, K.-R., Unterthiner, T., Lampinen, A.K. (2025). <a href="hrefhttps://www.nature.com/articles/s41586-025-09631-6">Aligning Machine and Human Visual Representations across Abstraction Levels.</a> _Nature_, 647(8089).
-* __Muttenthaler, L.__<sup>*</sup>, Sucholutsky, I.<sup>*</sup>, ..., Lampinen, A.K.<sup>$$\dagger$$</sup>, M&uuml;ller, K.-R.<sup>$$\dagger$$</sup>, Toneva, M.<sup>$$\dagger$$</sup>, Griffiths, T.<sup>$$\dagger$$</sup> (2025). <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment.</a> _Transactions on Machine Learning Research (TMLR)_, 2025.
+* __Muttenthaler, L.__<sup>*</sup>, Sucholutsky, I.<sup>*</sup>, ..., Lampinen, A.K.<sup>†</sup>, M&uuml;ller, K.-R.<sup>†</sup>, Toneva, M.<sup>†</sup>, Griffiths, T.<sup>†</sup> (2025). <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment.</a> _Transactions on Machine Learning Research (TMLR)_, 2025.
 * __Muttenthaler, L.__,  Linhardt, L., Dippel, J., Vandermeulen, R. A., Hermann, K., Lampinen, A. K., Kornblith, S., (2023), <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">Improving neural network representations using human similarity judgments.</a> In _Advances in Neural Information Processing Systems (NeurIPS)_, 36:50978--51007, 2023.
 * __Muttenthaler, L.__,  Dippel, J., Linhardt, L., Vandermeulen, R. A., Kornblith, S., (2023), <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">Human alignment of neural network representations.</a> In _11th International Conference on Learning Representations (ICLR)_, 2023.
 
 ## Service
 
 ### Conference & Workshop Organization
+* Organizer for the <a href="https://2025.ccneuro.org/community-event-representational-alignment/">Re<sup>3</sup>-Align Collaborative Hackathon</a> at CCN 2025 in Amsterdam
 * Organizer for <a href="https://representational-alignment.github.io/">Re<sup>2</sup>-Align: The Second Workshop on Representational Alignment</a> at ICLR 2025 in Singapore
 * Organizer for <a href="https://representational-alignment.github.io/">Re-Align: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna
 * Part of the Trainee Organizing Committee for <a href="https://2024.ccneuro.org/ccn-organizers/">CCN 2024</a> in Boston
 
 ### Reviewing
-* Reviewer for <a href="https://neurips.cc/">NeurIPS</a>, <a href="https://iclr.cc/">ICLR</a>, <a href="https://icml.cc/">ICML</a>, <a href="https://aaai.org/">AAAI</a>, <a href="https://jmlr.org/tmlr/">TMLR</a>.
+* Reviewer for <a href="https://neurips.cc/">NeurIPS</a>, <a href="https://iclr.cc/">ICLR</a>, <a href="https://icml.cc/">ICML</a>, <a href="https://aaai.org/">AAAI</a>, <a href="https://jmlr.org/tmlr/">TMLR</a>, <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.
 
 ## News
 
@@ -75,11 +77,11 @@ layout: default
 * _November_: Our paper <a href="https://www.nature.com/articles/s41586-025-09631-6">Aligning Machine and Human Visual
 Representations across Abstraction Levels</a> was published in _Nature_!
 * _October_: Our perspective <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment</a> was published in _TMLR_! Reviews are public on OpenReview and can be found <a href="https://openreview.net/forum?id=Hiq7lUh4Yn&noteId=Hiq7lUh4Yn">here</a>.
-* _October_: I started as a part-time postdoctoral researcher in the <a href="https://www.eml-munich.de/">Explainable Machine Learning Group</a> at <a href="https://www.helmholtz-munich.de/">Helmholtz Munich</a> alongside my industry work! 
+* _October_: I started as a part-time postdoctoral researcher in the <a href="https://www.eml-munich.de/">Explainable Machine Learning Group</a> at <a href="https://www.helmholtz-munich.de/">Helmholtz Munich</a> alongside my industry work!
 * _September_: Our paper <a href="https://arxiv.org/pdf/2409.06509">Aligning Machine and Human Visual
 Representations across Abstraction Levels<a> just got accepted into _Nature_!
-* _September_: Our massive collaborative perspective and review paper on representational alignment got accepted to <a href="https://jmlr.org/tmlr/">_Transactions on Machine Learning Research (TMLR)_</a>!
-* _August_: I am attending <a href="https://2025.ccneuro.org/">CCN 2025</a> in Amsterdam! Come join as at the <a href="https://2025.ccneuro.org/community-event-representational-alignment/">Re^3-Align Collaborative Hackathon</a>!
+* _September_: Our massive collaborative perspective and review paper on representational alignment just got accepted to <a href="https://jmlr.org/tmlr/">_Transactions on Machine Learning Research (TMLR)_</a>!
+* _August_: I am attending <a href="https://2025.ccneuro.org/">CCN 2025</a> in Amsterdam! Come join as at the <a href="https://2025.ccneuro.org/community-event-representational-alignment/">Re<sup>3</sup>-Align Collaborative Hackathon</a> for spicy discussions on representational alignment!
 * _June_: One paper on the <a href="https://www.nature.com/articles/s42256-025-01041-7">conceptual differences between computer vision models and humans</a> was published in _Nature Machine Intelligence_!
 * _June_: I started as a guest researcher in the Explainable Machine Learning (EML) Group at TU Munich!
 * _May_: Our paper on the <a href="https://arxiv.org/pdf/2411.05561">training factors that drive the consistency of representational similarity across vision datasets</a> got accepted to <a href="https://icml.cc/">ICML 2025</a>!
