@@ -40,24 +40,23 @@ layout: default
 
 # Industry Roles
 
-* 2025- | <b>Senior Machine Learning Research Scientist (full-time)</b>,
+* 2025- | <b>Senior ML Research Scientist (full-time)</b>,
 	                <a href="https://www.aignostics.com/">Aignostics</a>
 
 * 2023-2025 | <b>Student Researcher</b>,
 	                <a href="https://deepmind.google/">Google DeepMind</a>
-
-
-## Links
-* <a href="https://twitter.com/lukas_mut" class="icon fa-twitter">Twitter</a>
-* <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de" class="icon ai-google-scholar">Google Scholar</a>
-* <a href="https://github.com/LukasMut" class="icon fa-github">GitHub</a>
-* <a href="https://www.linkedin.com/in/lukas-muttenthaler/" class="icon fa-linkedin">LinkedIn</a>
 
 ## Key publications
 * __Muttenthaler, L.__, Greff, K., Born, F., Spitzer, B., Kornblith, S., Mozer, M.C., M&uuml;ller, K.-R., Unterthiner, T., Lampinen, A.K. (2025). <a href="hrefhttps://www.nature.com/articles/s41586-025-09631-6">Aligning Machine and Human Visual Representations across Abstraction Levels.</a> _Nature_, 647(8089).
 * __Muttenthaler, L.__<sup>*</sup>, Sucholutsky, I.<sup>*</sup>, ..., Lampinen, A.K.<sup>†</sup>, M&uuml;ller, K.-R.<sup>†</sup>, Toneva, M.<sup>†</sup>, Griffiths, T.<sup>†</sup> (2025). <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment.</a> _Transactions on Machine Learning Research (TMLR)_, 2025.
 * __Muttenthaler, L.__,  Linhardt, L., Dippel, J., Vandermeulen, R. A., Hermann, K., Lampinen, A. K., Kornblith, S., (2023), <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">Improving neural network representations using human similarity judgments.</a> In _Advances in Neural Information Processing Systems (NeurIPS)_, 36:50978--51007, 2023.
 * __Muttenthaler, L.__,  Dippel, J., Linhardt, L., Vandermeulen, R. A., Kornblith, S., (2023), <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">Human alignment of neural network representations.</a> In _11th International Conference on Learning Representations (ICLR)_, 2023.
+
+## Links
+* <a href="https://twitter.com/lukas_mut" class="icon fa-twitter">Twitter</a>
+* <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de" class="icon ai-google-scholar">Google Scholar</a>
+* <a href="https://github.com/LukasMut" class="icon fa-github">GitHub</a>
+* <a href="https://www.linkedin.com/in/lukas-muttenthaler/" class="icon fa-linkedin">LinkedIn</a>
 
 ## Service
 
