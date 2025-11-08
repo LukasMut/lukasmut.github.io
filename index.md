@@ -84,7 +84,7 @@ Representations across Abstraction Levels</a> just got accepted into the prestig
 * _August_: I am attending <a href="https://2025.ccneuro.org/">CCN 2025</a> in Amsterdam! Come join as at the <a href="https://2025.ccneuro.org/community-event-representational-alignment/">Re<sup>3</sup>-Align Collaborative Hackathon</a> for spicy discussions on representational alignment!
 * _June_: One paper on the <a href="https://www.nature.com/articles/s42256-025-01041-7">conceptual differences between computer vision models and humans</a> was published in _Nature Machine Intelligence_!
 * _June_: I started as a guest researcher in the Explainable Machine Learning (EML) Group at TU Munich!
-* _May_: Our paper on the <a href="https://arxiv.org/pdf/2411.05561">training factors that drive the consistency of representational similarity across vision datasets</a> got accepted to <a href="https://icml.cc/">ICML 2025</a>!
+* _May_: Our paper on the <a href="https://openreview.net/pdf?id=va3zmBXPat">training factors that drive the consistency of representational similarity across vision datasets</a> got accepted to <a href="https://openreview.net/forum?id=va3zmBXPat">ICML 2025</a>!
 * _April_: I started working as a Senior Machine Learning Research Scientist at <a href="https://www.aignostics.com/">Aignostics</a>!
 * _April_: I successfully defended my PhD _summa cum laude_ ("with the highest distinction") at TU Berlin!
 * _February_: I handed in my dissertation!
