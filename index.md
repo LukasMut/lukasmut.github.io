@@ -52,6 +52,12 @@ layout: default
 * <a href="https://github.com/LukasMut" class="icon fa-github">GitHub</a>
 * <a href="https://www.linkedin.com/in/lukas-muttenthaler/" class="icon fa-linkedin">LinkedIn</a>
 
+## Key publications
+* __Muttenthaler, L.__, Greff, K., Born, F., Spitzer, B., Kornblith, S., Mozer, M.C., M&uuml;ller, K.-R., Unterthiner, T., Lampinen, A.K. (2025). <a href="hrefhttps://www.nature.com/articles/s41586-025-09631-6">Aligning Machine and Human Visual Representations across Abstraction Levels.</a> _Nature_, 647(8089).
+* __Muttenthaler, L.__<sup>*</sup>, Sucholutsky, I.<sup>*</sup>, ..., Lampinen, A.K.<sup>$$\dagger$$</sup>, M&uuml;ller, K.-R.<sup>$$\dagger$$</sup>, Toneva, M.<sup>$$\dagger$$</sup>, Griffiths, T.<sup>$$\dagger$$</sup> (2025). <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment.</a> _Transactions on Machine Learning Research (TMLR)_, 2025.
+* __Muttenthaler, L.__,  Linhardt, L., Dippel, J., Vandermeulen, R. A., Hermann, K., Lampinen, A. K., Kornblith, S., (2023), <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">Improving neural network representations using human similarity judgments.</a> In _Advances in Neural Information Processing Systems (NeurIPS)_, 36:50978--51007, 2023.
+* __Muttenthaler, L.__,  Dippel, J., Linhardt, L., Vandermeulen, R. A., Kornblith, S., (2023), <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">Human alignment of neural network representations.</a> In _11th International Conference on Learning Representations (ICLR)_, 2023.
+
 ## Service
 
 ### Conference & Workshop Organization
@@ -66,8 +72,16 @@ layout: default
 
 ### 2025
 
-* _June_: One paper on the <a href="https://www.nature.com/articles/s42256-025-01041-7">conceptual differences between computer vision models and humans</a> was published in Nature Machine Intelligence!
-* _June_: I started as a guest researcher in the Explainable Machine Learning Group at TU Munich!
+* _November_: Our paper <a href="https://www.nature.com/articles/s41586-025-09631-6">Aligning Machine and Human Visual
+Representations across Abstraction Levels</a> was published in _Nature_!
+* _October_: Our perspective <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment</a> was published in _TMLR_! Reviews are public on OpenReview and can be found <a href="https://openreview.net/forum?id=Hiq7lUh4Yn&noteId=Hiq7lUh4Yn">here</a>.
+* _October_: I started as a part-time postdoctoral researcher in the <a href="https://www.eml-munich.de/">Explainable Machine Learning Group</a> at <a href="https://www.helmholtz-munich.de/">Helmholtz Munich</a> alongside my industry work! 
+* _September_: Our paper <a href="https://arxiv.org/pdf/2409.06509">Aligning Machine and Human Visual
+Representations across Abstraction Levels<a> just got accepted into _Nature_!
+* _September_: Our massive collaborative perspective and review paper on representational alignment got accepted to <a href="https://jmlr.org/tmlr/">_Transactions on Machine Learning Research (TMLR)_</a>!
+* _August_: I am attending <a href="https://2025.ccneuro.org/">CCN 2025</a> in Amsterdam! Come join as at the <a href="https://2025.ccneuro.org/community-event-representational-alignment/">Re^3-Align Collaborative Hackathon</a>!
+* _June_: One paper on the <a href="https://www.nature.com/articles/s42256-025-01041-7">conceptual differences between computer vision models and humans</a> was published in _Nature Machine Intelligence_!
+* _June_: I started as a guest researcher in the Explainable Machine Learning (EML) Group at TU Munich!
 * _May_: Our paper on the <a href="https://arxiv.org/pdf/2411.05561">training factors that drive the consistency of representational similarity across vision datasets</a> got accepted to <a href="https://icml.cc/">ICML 2025</a>!
 * _April_: I started working as a Senior Machine Learning Research Scientist at <a href="https://www.aignostics.com/">Aignostics</a>!
 * _April_: I successfully defended my PhD _summa cum laude_ ("with the highest distinction") at TU Berlin!
