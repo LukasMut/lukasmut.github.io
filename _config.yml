@@ -16,8 +16,8 @@
 title: Lukas Muttenthaler
 email: _
 description: >- # this means to ignore newlines until "baseurl:"
-  Senior Research Scientist in Machine Learning. Former PhD student in Machine Learning at the Department of Software Engineering and Theoretical Computer Science, TU Berlin, 
-  working on aligning the representations of computer vision models with human conceptual knowledge.
+  Senior Machine Learning Research Scientist at Aignostics and former part-time postdoctoral researcher in the Explainable Machine Learning Group
+  at Helmholtz Munich & TU Munich, working on representation learning and post-training for computer vision foundation models.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lukasmut.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lukas_mut
@@ -28,14 +28,6 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: minima
-minima:
-  skin: dark
-  social_links:
-    - { platform: github,  user_url: "https://github.com/LukasMut" }
-    - { platform: twitter, user_url: "https://twitter.com/lukas_mut" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/lukas-muttenthaler/" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=en&oi=ao" }
 
 plugins:
   - jekyll-feed
@@ -43,7 +35,7 @@ plugins:
 
 remote_theme: pages-themes/minimal@v0.2.0
 
-logo: images/image_01.jpg
+logo: images/image_02.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
