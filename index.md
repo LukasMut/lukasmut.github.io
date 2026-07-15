@@ -18,38 +18,38 @@ layout: default
 # Academic Background
 
 * 2025-2026 | <b>Postdoctoral Researcher (part-time), Computer Vision</b>
-					<a href= "https://www.eml-munich.de/" id="eml">Explainable Machine Learning Group</a>,
-					<a href="https://www.tum.de/" id="tum">Helmholtz Munich &amp; TU Munich</a>, Germany
+	                <a href= "https://www.eml-munich.de/" id="eml">Explainable Machine Learning Group</a>,
+	                <a href="https://www.tum.de/" id="tum">Helmholtz Munich &amp; TU Munich</a>, Germany
 
 * 2020-2025 | <b>PhD Computer Science / Machine Learning</b>
-					<a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
-					<a href="https://www.tu.berlin/en/" id="tub">TU Berlin</a>, Germany
+	                <a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
+	                <a href="https://www.tu.berlin/en/" id="tub">TU Berlin</a>, Germany
 -- Thesis: <a href="https://depositonce.tu-berlin.de/items/0add8976-4d00-4dd0-8c24-6fbdcf253d2a">Representational alignment of humans and machines for computer vision</a>
 
 * 2021-2024 | <b>Guest Researcher, Computational Cognitive Neuroscience</b>
-					<a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
-					<a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Institute for Human Cognitive and Brain Sciences</a>, Germany
+	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
+	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Institute for Human Cognitive and Brain Sciences</a>, Germany
 
 * 2020-2021 | <b>Research Associate, Computational Cognitive Neuroscience</b>
-					<a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
-					<a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Institute for Human Cognitive and Brain Sciences</a>, Germany
+	                <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition" id="vicco"> ViCCo Group</a>,
+	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Institute for Human Cognitive and Brain Sciences</a>, Germany
 
 * 2018-2020 | <b>M.Sc. IT & Cognition </b>
-					<a href="https://di.ku.dk/english/research/nlp/" id="ku_cs"> Department of Computer Science</a>,
-					<a href="https://www.ku.dk/english/" id="ku">University of Copenhagen</a>, Denmark
+	                <a href="https://di.ku.dk/english/research/nlp/" id="ku_cs"> Department of Computer Science</a>,
+	                <a href="https://www.ku.dk/english/" id="ku">University of Copenhagen</a>, Denmark
 -- Thesis: <a href="https://arxiv.org/abs/2006.08342">Subjective Question Answering: Deciphering the inner workings of Transformers in the space of subjectivity</a>
 
 * 2015-2018 | <b>B.Sc. Cognitive Psychology</b>
-					<a href="https://psychologie.univie.ac.at/en/research/" id="uvie_psy"> Faculty of Psychology</a>,
-					<a href="https://www.univie.ac.at/en/" id="uvie">University of Vienna</a>, Austria
+	                <a href="https://psychologie.univie.ac.at/en/research/" id="uvie_psy"> Faculty of Psychology</a>,
+	                <a href="https://www.univie.ac.at/en/" id="uvie">University of Vienna</a>, Austria
 
 # Industry Roles
 
 * 2025- | <b>Senior Machine Learning Research Scientist (full-time)</b>,
-					<a href="https://www.aignostics.com/">Aignostics</a>
+	                <a href="https://www.aignostics.com/">Aignostics</a>
 
 * 2023-2025 | <b>Student Researcher</b>,
-					<a href="https://deepmind.google/">Google DeepMind</a>
+	                <a href="https://deepmind.google/">Google DeepMind</a>
 
 ## Key publications
 * __Muttenthaler, L.__, Greff, K., Born, F., Spitzer, B., Kornblith, S., Mozer, M.C., M&uuml;ller, K.-R., Unterthiner, T., Lampinen, A.K., (2025). <a href="https://www.nature.com/articles/s41586-025-09631-6">Aligning Machine and Human Visual Representations across Abstraction Levels.</a> _Nature_, 647(8089): 349–355.
@@ -81,7 +81,10 @@ layout: default
 
 * _July_: We are presenting our paper <a href="https://openreview.net/forum?id=wSXZtvqwoa">Attentive Multi-Layer Fusion for Vision Transformers</a> at ICML in Vancouver!
 * _May_: Our paper <a href="https://openreview.net/forum?id=wSXZtvqwoa">Attentive Multi-Layer Fusion for Vision Transformers</a> was accepted to ICML 2026! Hooray!
+* _March_: Our paper <a href="https://openreview.net/forum?id=W3Fq26BXQ7">Context Sensitivity Improves Human-Machine Visual Alignment</a> was accepted to the Re-Align workshop at ICLR 2026 in Rio de Janeiro!
+* _March_: Our paper <a href="https://openreview.net/forum?id=cc417AET6g">Revealing Task-Dependent Layer Relevance via Attentive Multi-Layer Fusion</a> was accepted to the Sci4DL workshop at ICLR 2026 in Rio de Janeiro!
 * _January_: New preprint on <a href="https://arxiv.org/abs/2601.05148">Atlas 2 &mdash; Foundation models for clinical deployment</a> available on arXiv!
+* _January_: New preprint on <a href="https://arxiv.org/pdf/2601.09322">Attentive Multi-Layer Fusion for Vision Transformers</a> available on arXiv!
 
 ### 2025
 
