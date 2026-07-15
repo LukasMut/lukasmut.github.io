@@ -83,7 +83,7 @@ layout: default
 * _May_: Our paper <a href="https://openreview.net/forum?id=wSXZtvqwoa">Attentive Multi-Layer Fusion for Vision Transformers</a> was accepted to ICML 2026! Hooray!
 * _March_: Our paper <a href="https://openreview.net/forum?id=W3Fq26BXQ7">Context Sensitivity Improves Human-Machine Visual Alignment</a> was accepted to the Re-Align workshop at ICLR 2026 in Rio de Janeiro!
 * _March_: Our paper <a href="https://openreview.net/forum?id=cc417AET6g">Revealing Task-Dependent Layer Relevance via Attentive Multi-Layer Fusion</a> was accepted to the Sci4DL workshop at ICLR 2026 in Rio de Janeiro!
-* _January_: New preprint on <a href="https://arxiv.org/abs/2601.05148">Atlas 2 &mdash; Foundation models for clinical deployment</a> available on arXiv!
+* _January_: New preprint on <a href="https://arxiv.org/pdf/2601.05148">Atlas 2 &mdash; Foundation models for clinical deployment</a> available on arXiv!
 * _January_: New preprint on <a href="https://arxiv.org/pdf/2601.09322">Attentive Multi-Layer Fusion for Vision Transformers</a> available on arXiv!
 
 ### 2025
