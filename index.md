@@ -204,7 +204,7 @@ Representations across Abstraction Levels</a> is finally out as a preprint on ar
 * _September_: Paper on <a href="https://ieeexplore.ieee.org/abstract/document/8907309">Assisted Declarative Process Creation from Natural Language Descriptions</a> accepted to the 23rd IEEE International Enterprise Distributed Object Computing Conference (EDOC 2019)!
 * _July_: I started working on NLP for law documents as a Research Assistant (RA) in the Department of Computer Science at the University of Copenhagen.
 * _June_: Our algorithm that won the PAN autorship attribution competition at CLEF 2019 was featured in the <a href="https://ceur-ws.org/Vol-2380/">CLEF 2019 Working Notes</a>!
-* _May_: Our team won the PAN authorship attribution competition at <a href="http://www.clef-initiative.eu/">CLEF<a> 2019 in Lugano, Switzerland!
+* _May_: Our team won the PAN authorship attribution competition at <a href="http://www.clef-initiative.eu/">CLEF</a> 2019 in Lugano, Switzerland!
 * _February_: Paper on <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00375/full">Visual Working Memory</a> from my time as a research intern during my BSc accepted to Frontiers in Psychology!
 * _January_: Paper on <a href="https://jeps.efpsa.org/articles/abstract/10.5334/jeps.435/">Amblyopia</a> from my time as a research intern during my BSc accepted to the <a href="https://efpsa.org/">Journal of European Psychology Students (JEPS)</a>!
 
