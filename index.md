@@ -67,6 +67,13 @@ layout: default
 </div>
 
 <div class="featured">
+<span class="venue venue--conf">ICML</span>
+<span class="featured-title"><a href="https://openreview.net/forum?id=wSXZtvqwoa">Attentive Multi-Layer Fusion for Vision Transformers</a></span>
+<span class="featured-meta">Ciernik, Morik, &hellip; Muttenthaler (2026)</span>
+<p class="featured-tldr"><b>TL;DR</b> &mdash; An attention mechanism that fuses features across <em>all</em> layers of a vision transformer rather than only the last, showing that the most useful representations live at different levels depending on the task.</p>
+</div>
+
+<div class="featured">
 <span class="venue venue--journal">TMLR</span>
 <span class="featured-title"><a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment</a></span>
 <span class="featured-meta">Muttenthaler et al. (2025)</span>
