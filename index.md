@@ -9,11 +9,17 @@ layout: default
 
 # Research Profile
 
+<p class="lede">I build interpretable vision foundation models &mdash; and study what makes them <em>see</em> the world the way people do.</p>
+
 <p>I am a (full-time) Senior Machine Learning Research Scientist at <a href="https://www.aignostics.com/">Aignostics</a> and a (part-time) postdoctoral researcher in the <a href="https://www.eml-munich.de/">Explainable Machine Learning Group</a> at Helmholtz Munich &amp; TU Munich. At Aignostics, I introduced and lead the post-training research agenda for the company's vision foundation models, spanning self-supervised learning, vision&ndash;language alignment, and multi-task learning for computational pathology. Prior to that, I was a Student Researcher at <a href="https://deepmind.google/">Google DeepMind</a> and a PhD student in Machine Learning at TU Berlin and the Berlin Institute for the Foundations of Learning and Data (<a href="https://www.bifold.berlin/">BIFOLD</a>). Throughout most of my PhD I have also been a guest researcher in the <a href="https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">ViCCo Group</a> at the Max Planck Institute for Human Cognitive and Brain Sciences. I was mainly advised by <a href="https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en">Klaus-Robert Müller</a> (TU Berlin) and co-supervised by <a href="http://martin-hebart.de/">Martin Hebart</a> (MPI), <a href="https://simonster.com/">Simon Kornblith</a> (Anthropic), and <a href="https://lampinen.github.io/">Andrew Lampinen</a> (Google DeepMind). During my PhD, I've been part of a one-year Research Collaboration between TU Berlin and <a href="https://research.google/teams/brain/">Google Brain</a>, where I was advised by <a href="https://simonster.com//">Simon Kornblith</a>. Previously, I was a MSc student in IT & Cognition / Computer Science of <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> at the University of Copenhagen where I mostly worked on Question Answering and Machine Translation.</p>
 
 <p>My research mainly revolves around representation learning in computer vision. In particular, I try to understand the factors that influence the degree of <a href="https://arxiv.org/pdf/2211.01201.pdf">alignment between human mental and neural network representations</a> and use inspiration from human cognition to <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">improve deep learning models</a>. My goal is to build interpretable (vision) foundation models that generalize to downstream out-of-distribution settings (similar to how the human brain does); something that we partly achieved in <a href="https://www.nature.com/articles/s41586-025-09631-6">this Nature paper</a>. More recently, I have been working on foundation models for medical imaging&mdash;specifically computational pathology&mdash;where I have gained deep expertise in histopathological image analysis, foundation model post-training, and multi-task learning for H&amp;E- and IHC-stained tissue. Beyond raw performance, I am deeply invested in questions of AI safety and alignment&mdash;a natural extension of my work on representational alignment between humans and neural networks, where understanding and controlling the internal representations of AI systems is key to building models that are interpretable, trustworthy, and aligned with human values.</p> 
 
 <p>Occasionally I dabble in philosophical discussions about <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">representational alignment</a> and try to develop common language across research disciplines together with other people in the field. Recently, I've been thinking a lot about the <a href="https://arxiv.org/pdf/2411.05561">transferability of representational similarities across datasets</a>. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my work. Feel free to reach out to me, if you believe our research intentions are aligned (pun intended) and you are keen to collaborate on a project.</p>
+
+## Software
+
+* <a href="https://github.com/ViCCo-Group/thingsvision">THINGSvision</a> &mdash; a Python toolbox for extracting activations from state-of-the-art computer vision models (180+ &#9733; on GitHub), available on <a href="https://pypi.org/project/thingsvision/">PyPI</a>.
 
 # Academic Background
 
@@ -51,12 +57,30 @@ layout: default
 * 2023-2025 | <b>Student Researcher</b>,
 	                <a href="https://deepmind.google/">Google DeepMind</a>
 
-## Key publications
-* __Muttenthaler, L.__, Greff, K., Born, F., Spitzer, B., Kornblith, S., Mozer, M.C., M&uuml;ller, K.-R., Unterthiner, T., Lampinen, A.K., (2025). <a href="https://www.nature.com/articles/s41586-025-09631-6">Aligning Machine and Human Visual Representations across Abstraction Levels.</a> _Nature_, 647(8089): 349–355.
-* __Muttenthaler, L.__<sup>*</sup>, Sucholutsky, I.<sup>*</sup>, ..., Lampinen, A.K.<sup>†</sup>, M&uuml;ller, K.-R.<sup>†</sup>, Toneva, M.<sup>†</sup>, Griffiths, T.<sup>†</sup>, (2025). <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment.</a> _Transactions on Machine Learning Research (TMLR)_, 2025.
-* Ciernik, L.<sup>*</sup>, Morik, M.<sup>*</sup>, Thede, L., Eyring, L., Nakajima, S., Akata, Z., __Muttenthaler, L.__, (2026). <a href="https://openreview.net/forum?id=wSXZtvqwoa">Attentive Multi-Layer Fusion for Vision Transformers.</a> In _43rd International Conference on Machine Learning (ICML)_, 2026.
-* __Muttenthaler, L.__,  Linhardt, L., Dippel, J., Vandermeulen, R. A., Hermann, K., Lampinen, A. K., Kornblith, S., (2023), <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/9febda1c8344cc5f2d51713964864e93-Abstract-Conference.html">Improving neural network representations using human similarity judgments.</a> In _Advances in Neural Information Processing Systems (NeurIPS)_, 36:50978--51007, 2023.
-* __Muttenthaler, L.__,  Dippel, J., Linhardt, L., Vandermeulen, R. A., Kornblith, S., (2023), <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">Human alignment of neural network representations.</a> In _11th International Conference on Learning Representations (ICLR)_, 2023.
+## Featured publications
+
+<div class="featured">
+<span class="venue venue--journal">Nature</span>
+<span class="featured-title"><a href="https://www.nature.com/articles/s41586-025-09631-6">Aligning Machine and Human Visual Representations across Abstraction Levels</a></span>
+<span class="featured-meta">Muttenthaler et al. (2025)</span>
+<p class="featured-tldr"><b>TL;DR</b> &mdash; Distilling human similarity judgments into vision models makes their representations more human-like across levels of abstraction &mdash; and more generalizable, robust, and sample-efficient on downstream tasks.</p>
+</div>
+
+<div class="featured">
+<span class="venue venue--journal">TMLR</span>
+<span class="featured-title"><a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">Getting aligned on representational alignment</a></span>
+<span class="featured-meta">Muttenthaler et al. (2025)</span>
+<p class="featured-tldr"><b>TL;DR</b> &mdash; A cross-disciplinary framework that unifies how machine learning, neuroscience, and cognitive science define, measure, and improve the alignment between representations in artificial and biological systems.</p>
+</div>
+
+<div class="featured">
+<span class="venue venue--conf">ICLR</span>
+<span class="featured-title"><a href="https://openreview.net/forum?id=ReDQ1OUQR0X">Human alignment of neural network representations</a></span>
+<span class="featured-meta">Muttenthaler et al. (2023)</span>
+<p class="featured-tldr"><b>TL;DR</b> &mdash; A large-scale study of what makes neural-network representations align with human similarity judgments, showing that the training objective and data matter more than model scale.</p>
+</div>
+
+<p><a href="{{ '/publications.html' | relative_url }}">See all publications &rarr;</a></p>
 
 ## Links
 * <a href="https://twitter.com/lukas_mut" class="icon fa-twitter">Twitter</a>
@@ -103,6 +127,9 @@ Representations across Abstraction Levels</a> just got accepted into the prestig
 * _April_: I successfully defended my PhD _summa cum laude_ ("with the highest distinction") at TU Berlin!
 * _February_: I handed in my dissertation!
 * _January_: I had my last day as a Student Researcher at Google DeepMind!
+
+<details markdown="1" class="news-archive">
+<summary>Show earlier news (2018–2024)</summary>
 
 ### 2024
 
@@ -153,11 +180,11 @@ Representations across Abstraction Levels</a> is finally out as a preprint on ar
 * _May_: One paper submitted to NeurIPS 2022!
 * _February_: Abstract on interpretable object dimensions in DNNs accepted as an oral to VSS 2022!
 * _February_: I was accepted into the Berlin Institute for the Foundations of Learning and Data <a href="https://www.bifold.berlin/">(BIFOLD)</a> to continue my PhD studies at TU Berlin with a fully-funded position!
-										
+											
 ### 2021
 * _September_: Paper on my Python toolbox <a href="https://github.com/ViCCo-Group/thingsvision">thingsvision</a> for extracting features from state-of-the-art computer vision models accepted to Frontiers in Neuroinformatics!
 * _July_: As of July 1st, I am a PhD student in the Machine Learning Group at TU Berlin, working on cognitively-inspired Machine Learning! Excited to continue my journey at the intersection of ML and Cognitive Science; this time with a stronger emphasis on ML than on CogSci.
-										
+											
 ### 2020
 * _September_: Paper on  <a href="https://www.aclweb.org/anthology/2020.blackboxnlp-1.8/">Unsupervised QA Evaluation of Transformers</a> with my previous MSc. supervisors <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="http://bjerva.github.io/">Johannes Bjerva</a> accepted to BlackBoxNLP @ <a href="https://2020.emnlp.org/">EMNLP 2020</a>!
 * _August_: I started as a full-time Research Assistant (RA) in the <a href= "https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition">Vision and Computational Cognition Group  </a> at the <a href="https://www.cbs.mpg.de/">Max Planck Institute for Human Cognitive and Brain Sciences</a> in Leipzig, Germany. Excited to start working at the intersection of Machine Learning and Cognitive Neuroscience!
@@ -174,3 +201,5 @@ Representations across Abstraction Levels</a> is finally out as a preprint on ar
 
 ### 2018
 * _June_: I was admitted to the <a href='https://studies.ku.dk/masters/it-and-cognition/'> IT & Cognition</a> MSc programme at the <a href='https://di.ku.dk/english/' >University of Copenhagen</a>. Excited to start working on Natural Language Processing in Copenhagen! I will be starting my studies in September.
+
+</details>

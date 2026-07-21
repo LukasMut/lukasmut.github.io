@@ -12,6 +12,23 @@
 <!-- Monogram favicon -->
 <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA2NCA2NCc+PHJlY3Qgd2lkdGg9JzY0JyBoZWlnaHQ9JzY0JyByeD0nMTQnIGZpbGw9JyMyNjdDQjknLz48dGV4dCB4PSczMicgeT0nNDUnIGZvbnQtZmFtaWx5PSdHZW9yZ2lhLCBzZXJpZicgZm9udC1zaXplPSczMicgZm9udC13ZWlnaHQ9J2JvbGQnIGZpbGw9JyNmZmZmZmYnIHRleHQtYW5jaG9yPSdtaWRkbGUnPkxNPC90ZXh0Pjwvc3ZnPg==">
 
+<!-- Social share preview (Open Graph / Twitter) -->
+<meta property="og:image" content="https://lukasmut.github.io/images/image_02.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://lukasmut.github.io/images/image_02.jpg">
+<meta name="color-scheme" content="light dark">
+
+<!-- Apply saved / preferred colour scheme before first paint -->
+<script>
+  (function () {
+    try {
+      var s = localStorage.getItem('theme');
+      var dark = s ? (s === 'dark') : window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (dark) document.documentElement.setAttribute('data-theme', 'dark');
+    } catch (e) {}
+  })();
+</script>
+
 <!-- Navigation + visual polish (built on top of the minimal theme) -->
 <style>
   :root {
@@ -70,6 +87,19 @@
   .pub-list h3 { margin-top: 2rem; }
   .pub-list h4 { margin: 1.2rem 0 .4rem; color: #6a737d; }
 
+  /* Social icons in the header */
+  .social-links {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin: .8rem 0 .2rem;
+    padding-top: .8rem;
+    border-top: 1px solid var(--rule);
+  }
+  .social-links a { display: inline-flex; color: #6a737d; transition: color .15s ease, transform .15s ease; }
+  .social-links a:hover { color: var(--accent); transform: translateY(-2px); }
+  .social-links svg { width: 22px; height: 22px; fill: currentColor; }
+
   /* Venue badges on the publications list */
   .venue {
     display: inline-block;
@@ -89,18 +119,60 @@
   .venue--workshop { background: #e6f5ea; color: #1a7f3c; }  /* green  */
   .venue--preprint { background: #eef0f2; color: #6a737d; }  /* grey   */
 
-  /* Social icons in the header */
-  .social-links {
-    display: flex;
-    gap: 1rem;
-    align-items: center;
-    margin: .8rem 0 .2rem;
-    padding-top: .8rem;
-    border-top: 1px solid var(--rule);
+  /* Featured publications */
+  .featured { margin: 0 0 1rem; padding: .75rem .95rem; border: 1px solid var(--rule); border-radius: 8px; background: #fcfcfd; }
+  .featured .venue { margin-bottom: .4rem; }
+  .featured-title { display: block; font-weight: 700; line-height: 1.35; }
+  .featured-meta { display: block; color: #6a737d; font-size: .85rem; margin-top: .15rem; }
+  .featured-tldr { margin: .5rem 0 0; font-size: .93rem; line-height: 1.55; }
+  .featured-tldr b { color: var(--accent-dark); }
+
+  /* Collapsible older news */
+  details.news-archive { margin-top: .4rem; }
+  details.news-archive > summary {
+    cursor: pointer; font-weight: 600; color: var(--accent);
+    list-style: none; padding: .3rem 0; user-select: none;
   }
-  .social-links a { display: inline-flex; color: #6a737d; transition: color .15s ease, transform .15s ease; }
-  .social-links a:hover { color: var(--accent); transform: translateY(-2px); }
-  .social-links svg { width: 22px; height: 22px; fill: currentColor; }
+  details.news-archive > summary::-webkit-details-marker { display: none; }
+  details.news-archive > summary::before { content: "\25B8\00A0\00A0"; }
+  details.news-archive[open] > summary::before { content: "\25BE\00A0\00A0"; }
+
+  /* Dark-mode toggle button */
+  .theme-toggle {
+    position: fixed; top: 1rem; right: 1rem; z-index: 1000;
+    width: 40px; height: 40px; border-radius: 50%;
+    border: 1px solid var(--rule); background: #fff;
+    font-size: 1.15rem; line-height: 1; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,.15); transition: transform .15s ease;
+  }
+  .theme-toggle:hover { transform: scale(1.08); }
+
+  /* Lede / opening tagline */
+  .lede { font-size: 1.22rem; line-height: 1.5; font-weight: 500; color: #3a3f45; margin: .1rem 0 1.3rem; }
+
+  /* Publications colour legend */
+  .pub-legend { margin: .4rem 0 1.5rem; }
+
+  /* ---------------- Dark mode ---------------- */
+  html[data-theme="dark"] { --accent: #58a6ff; --accent-dark: #79c0ff; --rule: #30363d; background-color: #0d1117; }
+  html[data-theme="dark"] body { background: #0d1117; color: #c9d1d9; }
+  html[data-theme="dark"] h1, html[data-theme="dark"] h2, html[data-theme="dark"] h3,
+  html[data-theme="dark"] h4, html[data-theme="dark"] h5, html[data-theme="dark"] h6 { color: #e6edf3; }
+  html[data-theme="dark"] .pub-list h4,
+  html[data-theme="dark"] .featured-meta,
+  html[data-theme="dark"] .social-links a { color: #8b949e; }
+  html[data-theme="dark"] .pub-list p:hover { background: #161b22; }
+  html[data-theme="dark"] .featured { background: #161b22; border-color: #30363d; }
+  html[data-theme="dark"] .theme-toggle { background: #21262d; border-color: #30363d; }
+  html[data-theme="dark"] header img { border-color: #30363d; box-shadow: 0 4px 16px rgba(0,0,0,.5); }
+  html[data-theme="dark"] pre, html[data-theme="dark"] code, html[data-theme="dark"] .highlight { background: #161b22 !important; color: #c9d1d9; border-color: #30363d; }
+  html[data-theme="dark"] blockquote { border-left-color: #30363d; color: #8b949e; }
+  html[data-theme="dark"] .venue--journal  { background: #16303f; color: #79c0ff; }
+  html[data-theme="dark"] .venue--conf     { background: #2b2140; color: #d0bcff; }
+  html[data-theme="dark"] .venue--workshop { background: #12351f; color: #7ee2a8; }
+  html[data-theme="dark"] .venue--preprint { background: #262b31; color: #9aa4af; }
+  html[data-theme="dark"] .lede { color: #adbac7; }
 </style>
 
 <!-- Inject social icons into the theme header (works without a custom layout) -->
@@ -117,5 +189,24 @@
     var desc = header.querySelector('p');
     if (desc) { desc.insertAdjacentHTML('afterend', links); }
     else { header.insertAdjacentHTML('beforeend', links); }
+  });
+</script>
+
+<!-- Dark-mode toggle button -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var root = document.documentElement;
+    var btn = document.createElement('button');
+    btn.className = 'theme-toggle';
+    btn.type = 'button';
+    btn.setAttribute('aria-label', 'Toggle dark mode');
+    function setIcon() { btn.textContent = root.getAttribute('data-theme') === 'dark' ? '\u2600\uFE0F' : '\uD83C\uDF19'; }
+    setIcon();
+    btn.addEventListener('click', function () {
+      if (root.getAttribute('data-theme') === 'dark') { root.removeAttribute('data-theme'); try { localStorage.setItem('theme','light'); } catch (e) {} }
+      else { root.setAttribute('data-theme','dark'); try { localStorage.setItem('theme','dark'); } catch (e) {} }
+      setIcon();
+    });
+    document.body.appendChild(btn);
   });
 </script>
