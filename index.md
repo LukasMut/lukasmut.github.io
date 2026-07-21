@@ -25,7 +25,7 @@ layout: default
 
 * 2025-2026 | <b>Postdoctoral Researcher (part-time), Computer Vision</b>
 	                <a href= "https://www.eml-munich.de/" id="eml">Explainable Machine Learning Group</a>,
-	                <a href="https://www.tum.de/" id="tum">Helmholtz Munich &amp; TU Munich</a>, Germany
+	                <a href="https://www.helmholtz-munich.de/en/" id="helmholtz">Helmholtz Munich</a> &amp; <a href="https://www.tum.de/" id="tum">TU Munich</a>, Germany
 
 * 2020-2025 | <b>PhD Computer Science / Machine Learning</b>
 	                <a href="https://web.ml.tu-berlin.de/">Machine Learning Group</a> & <a href="https://www.bifold.berlin/">BIFOLD</a>,
@@ -41,7 +41,7 @@ layout: default
 	                <a href="https://www.cbs.mpg.de/en" id="mpi_cbs">Max Planck Institute for Human Cognitive and Brain Sciences</a>, Germany
 
 * 2018-2020 | <b>M.Sc. IT & Cognition </b>
-	                <a href="https://di.ku.dk/english/research/nlp/" id="ku_cs"> Department of Computer Science</a>,
+	                <a href="https://di.ku.dk/english/" id="ku_cs"> Department of Computer Science</a>,
 	                <a href="https://www.ku.dk/english/" id="ku">University of Copenhagen</a>, Denmark
 -- Thesis: <a href="https://arxiv.org/abs/2006.08342">Subjective Question Answering: Deciphering the inner workings of Transformers in the space of subjectivity</a>
 
@@ -70,7 +70,7 @@ layout: default
 <span class="venue venue--conf">ICML</span>
 <span class="featured-title"><a href="https://openreview.net/forum?id=wSXZtvqwoa">Attentive Multi-Layer Fusion for Vision Transformers</a></span>
 <span class="featured-meta">Ciernik, Morik, &hellip; Muttenthaler (2026)</span>
-<p class="featured-tldr"><b>TL;DR</b> &mdash; An attention mechanism that fuses features across <em>all</em> layers of a vision transformer rather than only the last, showing that the most useful representations live at different levels depending on the task.</p>
+<p class="featured-tldr"><b>TL;DR</b> &mdash; An attention mechanism that fuses features across <em>all</em> layers of a vision transformer rather than only the last, showing that the most useful representations live at different depths depending on the task.</p>
 </div>
 
 <div class="featured">
@@ -89,18 +89,20 @@ layout: default
 
 <p><a href="{{ '/publications.html' | relative_url }}">See all publications &rarr;</a></p>
 
-## Links
-* <a href="https://twitter.com/lukas_mut" class="icon fa-twitter">Twitter</a>
-* <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de" class="icon ai-google-scholar">Google Scholar</a>
-* <a href="https://github.com/LukasMut" class="icon fa-github">GitHub</a>
-* <a href="https://www.linkedin.com/in/lukas-muttenthaler/" class="icon fa-linkedin">LinkedIn</a>
+## Media & Talks
+
+* <b>Google DeepMind Blog</b> &mdash; <a href="https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/">Teaching AI to see the world more like we do</a> (2025), featuring our <i>Nature</i> paper
+* <b>BIFOLD Researcher Spotlight</b> &mdash; <a href="https://www.bifold.berlin/news-events/news/view/news-detail/researcher-spotlight-dr-lukas-muttenthaler">interview on representational alignment</a> (2026)
+* <b>Invited talk (video)</b> &mdash; <a href="https://www.cbs.mpg.de/cbs-coconut/lukas-muttenthaler">Representational alignment of humans and machines for computer vision</a>, MPI CBS CoCoNUT seminar (2025)
+* <b>Podcast</b> &mdash; <a href="https://open.spotify.com/episode/0bVF5wBy2a4cDC4OBgmm4j">AI Breakdown: When Does Perceptual Alignment Benefit Vision Representations?</a>
+* <b>Explainer video</b> &mdash; <a href="https://www.youtube.com/watch?v=ihV5bH3ehKM">AligNet: Human-Aligned Vision Models for Robust AI</a> (6 min)
 
 ## Service
 
 ### Conference & Workshop Organization
 * Organizer for the <a href="https://2025.ccneuro.org/community-event-representational-alignment/">Re<sup>3</sup>-Align Collaborative Hackathon</a> at CCN 2025 in Amsterdam
-* Organizer for <a href="https://representational-alignment.github.io/">Re<sup>2</sup>-Align: The Second Workshop on Representational Alignment</a> at ICLR 2025 in Singapore
-* Organizer for <a href="https://representational-alignment.github.io/">Re-Align: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna
+* Organizer for <a href="https://representational-alignment.github.io/2025/">Re<sup>2</sup>-Align: The Second Workshop on Representational Alignment</a> at ICLR 2025 in Singapore
+* Organizer for <a href="https://representational-alignment.github.io/2024/">Re-Align: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna
 * Part of the Trainee Organizing Committee for <a href="https://2024.ccneuro.org/ccn-organizers/">CCN 2024</a> in Boston
 
 ### Reviewing
@@ -155,24 +157,24 @@ Representations across Abstraction Levels</a> is finally out as a preprint on ar
 * _March_: I am serving as a reviewer for <a href="https://www.icml.cc/">ICML 2024</a>!
 * _March_: I gave an invited talk at Helmholtz AI & TUM in the <a href="https://cpilab.org/index.html">Human-Centered AI Lab</a> and the <a href="https://www.eml-unitue.de/#team">Explainable Machine Learning Lab</a> of Eric Schulz and Zeynep Akata respectively!
 * _January_: Our paper on <a href="https://arxiv.org/pdf/2307.02245.pdf">set learning for accurate and calibrated models</a> was accepted to ICLR 2024! Hooray!
-* _January_: Our Call for Papers for <a href="https://representational-alignment.github.io/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna is out! We are looking forward to your submissions! Submission deadline is February 3rd.
+* _January_: Our Call for Papers for <a href="https://representational-alignment.github.io/2024/">**Re-Align**: The First Workshop on Representational Alignment</a> at ICLR 2024 in Vienna is out! We are looking forward to your submissions! Submission deadline is February 3rd.
 
 ### 2023
-* _December_: Our workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> was accepted to ICLR 2024! See y'all in Vienna!
+* _December_: Our workshop proposal on <a href="https://representational-alignment.github.io/2024/">representational alignment</a> was accepted to ICLR 2024! See y'all in Vienna!
 * _October_: I gave an invited talk on _human alignment of neural network representations_ in the lab of <a href="https://mtoneva.com/">Mariya Toneva</a>!
-* _October_: One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to ICLR 2024!
+* _October_: One workshop proposal on <a href="https://representational-alignment.github.io/2024/">representational alignment</a> submitted to ICLR 2024!
 * _October_: I am serving as a reviewer for <a href="https://www.iclr.cc/">ICLR 2024</a>!
 * _October_: I've started working as a Student Researcher @ Google DeepMind!
 * _September_: Our paper on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a> was accepted to NeurIPS 2023! Hooray! 
 * _August_: I am presenting work on interpretable object dimensions at <a href="https://2023.ccneuro.org/">CCN</a>! Hello Oxford!
 * _August_: I gave an invited talk on _human alignment of neural network representations_ at the <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>!
-* _July_: Our workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> was unfortunately rejected at NeurIPS 2023 but we will not give up and re-submit a revised version to ICLR!
+* _July_: Our workshop proposal on <a href="https://representational-alignment.github.io/2024/">representational alignment</a> was unfortunately rejected at NeurIPS 2023 but we will not give up and re-submit a revised version to ICLR!
 * _July_: I am serving as a reviewer for <a href="https://neurips.cc/">NeurIPS 2023</a>!
 * _July_: I gave a spotlight talk on _human alignment of neural network representations_ at the annual <a href="https://www.bifold.berlin/">BIFOLD</a> retreat!
 * _June_: New preprint on <a href="https://arxiv.org/pdf/2307.02245.pdf">set learning for accurate and calibrated models</a> available on arXiv!
 * _June_: New preprint on <a href="https://arxiv.org/pdf/2306.04507.pdf">improving neural network representations using human similarity judgments</a> available on arXiv!
 * _May_: Paper on interpretable object dimensions in Deep Neural Nets accepted to <a href="https://ccneuro.org/">CCN 2023</a>! See y'all in Oxford!
-* _May_: One workshop proposal on <a href="https://representational-alignment.github.io/">representational alignment</a> submitted to NeurIPS 2023!
+* _May_: One workshop proposal on <a href="https://representational-alignment.github.io/2024/">representational alignment</a> submitted to NeurIPS 2023!
 * _May_: Two papers submitted to <a href="https://neurips.cc/">NeurIPS 2023</a>!
 * _May_: I am presenting our paper on <a href="https://arxiv.org/pdf/2211.01201.pdf">human alignment of neural network representations</a> virtually at ICLR 2023!
 * _January_: Paper on <a href="https://openreview.net/forum?id=ReDQ1OUQR0X">human alignment of neural network representations</a> accepted to ICLR 2023 in Kigali, Rwanda!
