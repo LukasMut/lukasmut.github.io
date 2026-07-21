@@ -77,7 +77,7 @@ layout: default
 <span class="venue venue--conf">ICLR</span>
 <span class="featured-title"><a href="https://openreview.net/forum?id=ReDQ1OUQR0X">Human alignment of neural network representations</a></span>
 <span class="featured-meta">Muttenthaler et al. (2023)</span>
-<p class="featured-tldr"><b>TL;DR</b> &mdash; A large-scale study of what makes neural-network representations align with human similarity judgments, showing that the training objective and data matter more than model scale.</p>
+<p class="featured-tldr"><b>TL;DR</b> &mdash; A large-scale study of what makes neural-network representations align with human similarity judgments, showing that the training objective and data matter more than model scale and architecture.</p>
 </div>
 
 <p><a href="{{ '/publications.html' | relative_url }}">See all publications &rarr;</a></p>
