@@ -17,9 +17,6 @@ layout: default
 
 <p>Occasionally I dabble in philosophical discussions about <a href="https://openreview.net/pdf?id=Hiq7lUh4Yn">representational alignment</a> and try to develop common language across research disciplines together with other people in the field. Recently, I've been thinking a lot about the <a href="https://arxiv.org/pdf/2411.05561">transferability of representational similarities across datasets</a>. Have a look at my <a href="https://scholar.google.com/citations?user=ktyApiAAAAAJ&hl=de">Google Scholar</a> for more information about my work. Feel free to reach out to me, if you believe our research intentions are aligned (pun intended) and you are keen to collaborate on a project.</p>
 
-## Software
-
-* <a href="https://github.com/ViCCo-Group/thingsvision">THINGSvision</a> &mdash; a Python toolbox for extracting activations from state-of-the-art computer vision models (180+ &#9733; on GitHub), available on <a href="https://pypi.org/project/thingsvision/">PyPI</a>.
 
 # Academic Background
 
@@ -88,6 +85,10 @@ layout: default
 </div>
 
 <p><a href="{{ '/publications.html' | relative_url }}">See all publications &rarr;</a></p>
+
+## Software
+
+* <a href="https://github.com/ViCCo-Group/thingsvision">THINGSvision</a> &mdash; a Python toolbox for extracting activations from state-of-the-art computer vision models (180+ &#9733; on GitHub &middot; 70+ citations), available on <a href="https://pypi.org/project/thingsvision/">PyPI</a>.
 
 ## Media & Talks
 
