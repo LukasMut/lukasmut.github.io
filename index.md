@@ -88,7 +88,7 @@ layout: default
 
 ## Software
 
-* <a href="https://github.com/ViCCo-Group/thingsvision">THINGSvision</a> &mdash; a Python toolbox for extracting activations from state-of-the-art computer vision models (180+ &#9733; on GitHub &middot; 70+ citations), available on <a href="https://pypi.org/project/thingsvision/">PyPI</a>.
+* <a href="https://github.com/ViCCo-Group/thingsvision">thingsvision</a> &mdash; a Python toolbox for extracting activations from state-of-the-art computer vision models (180+ &#9733; on GitHub &middot; 70+ citations), available on <a href="https://pypi.org/project/thingsvision/">PyPI</a>.
 
 ## Media & Talks
 
